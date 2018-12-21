@@ -9,14 +9,14 @@ This tutorial is a crash course for a beginner who wants to learn Web Programmin
 - Structure of HTML Document
 - Elements
 - Attributes
-- Creating a Simple Webpage
-- Block & Inline Elements
+- Creating a Simple Webpage with title and Headings
 - Introduction to commonly used elements
   - Heading
   - Paragraph
   - Image
   - Link
   - Lists
+- Block & Inline Elements
 - Style
 - Formatting
 - Tables
@@ -30,6 +30,9 @@ This tutorial is a crash course for a beginner who wants to learn Web Programmin
 ## JavaScript
 
 ## BootStrap
+
+
+## Github
 
 ## References
 
@@ -50,3 +53,5 @@ https://app.pluralsight.com/player?course=html-css-javascript-big-picture&author
 https://app.pluralsight.com/library/courses/your-first-day-html-1665/table-of-contents
 
 https://app.pluralsight.com/player?course=your-first-day-html-1665&author=susan-simkins&name=your-first-day-html-1665-m1&clip=0&mode=live
+
+https://app.pluralsight.com/player?course=semantic-html-2329&author=susan-simkins&name=semantic-html-2329-m2&clip=0
