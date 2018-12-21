@@ -44,7 +44,7 @@ Elements usually have a start and closing tag, like <p></p>. But there are some 
 <hr />
 ```
 
-## Commeting HTML Code
+## Commenting HTML Code
 
 A comment starts with the tag **<!--** and ends with tag **-->**. Whatever content is added inside a comment tag is never displayed in the browser.
 
@@ -62,3 +62,11 @@ A comment starts with the tag **<!--** and ends with tag **-->**. Whatever conte
 
 - Introduction to extension Manager in Brackets.
 - Installing extension to Beautify the code.
+
+## Image Tag
+
+## Link Tag
+
+## Web Standards
+
+https://validator.w3.org/nu/#file
