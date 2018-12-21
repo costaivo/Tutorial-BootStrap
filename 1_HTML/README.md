@@ -44,6 +44,10 @@ Elements usually have a start and closing tag, like <p></p>. But there are some 
 <hr />
 ```
 
+## Commeting HTML Code
+
+A comment starts with the tag **<!--** and ends with tag **-->**. Whatever content is added inside a comment tag is never displayed in the browser.
+
 ## Summary
 
 - HTML element starts with a opening tag
@@ -53,3 +57,8 @@ Elements usually have a start and closing tag, like <p></p>. But there are some 
 - Some HTML elements are empty
 - Empty elements are closed in the start tag
 - Make it a habit to type all your tags in lowercase - it is considered good practice
+
+# Lesson 2
+
+- Introduction to extension Manager in Brackets.
+- Installing extension to Beautify the code.
