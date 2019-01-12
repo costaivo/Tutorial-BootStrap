@@ -1,5 +1,11 @@
 # HTML
 
+## Introduction to VSCode
+
+- Demo on Using VSCode
+- Installing the LiveServer Extension
+- Installing the Prettier extension
+
 ## What is HTML
 
 HTML stands for _Hyper Text markup language_
@@ -16,7 +22,6 @@ HTML is a set of pre-defined elements or tags that tell browser what content to 
 - The markup tags are **<** and **>**
 - tags should be lowercase
 - each tag and its content is an **HTML element**
-
 
 [Tag Example](https://codepen.io/CostaIvo/pen/xVWvyZ)
 
@@ -65,12 +70,15 @@ A comment starts with the tag **<!--** and ends with tag **-->**. Whatever conte
 
 ## Lesson 2
 
-- Introduction to extension Manager in Brackets.
-- Installing extension to Beautify the code.
-
 ## Image Tag
 
+The HTML <img> element embeds an image into the doucment.
+
+`<img src="http://www.itsgoa.com/wp-content/uploads/2017/05/Goa-tourism-780x405.jpg" alt="Goa Tourism" />`
+
 ## Link Tag
+
+`<a href="https://en.wikipedia.org/wiki/HTML">Wiki Link: HTML </a>`
 
 ## Web Standards
 
@@ -78,6 +86,8 @@ Validate if your webpage is well formed using the below url
 https://validator.w3.org/nu/#file
 
 ## Lesson 3
+
+Creating two demo HTML pages using raw text content
 
 ### Contents of Web
 
