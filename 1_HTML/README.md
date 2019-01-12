@@ -7,6 +7,8 @@ A Markup language basically annotates the text so that the computer can manipula
 
 When a browser (IE,Chrome,Firefox) displays a webpage, it reads the contents and interprets the HTML.
 
+HTML is a set of pre-defined elements or tags that tell browser what content to display and how to display that content
+
 ## TAGS
 
 - HTML is made up of tags
@@ -14,6 +16,9 @@ When a browser (IE,Chrome,Firefox) displays a webpage, it reads the contents and
 - The markup tags are **<** and **>**
 - tags should be lowercase
 - each tag and its content is an **HTML element**
+
+
+[Tag Example](https://codepen.io/CostaIvo/pen/xVWvyZ)
 
 ## Elements
 
@@ -58,7 +63,7 @@ A comment starts with the tag **<!--** and ends with tag **-->**. Whatever conte
 - Empty elements are closed in the start tag
 - Make it a habit to type all your tags in lowercase - it is considered good practice
 
-# Lesson 2
+## Lesson 2
 
 - Introduction to extension Manager in Brackets.
 - Installing extension to Beautify the code.
@@ -69,4 +74,14 @@ A comment starts with the tag **<!--** and ends with tag **-->**. Whatever conte
 
 ## Web Standards
 
+Validate if your webpage is well formed using the below url
 https://validator.w3.org/nu/#file
+
+## Lesson 3
+
+### Contents of Web
+
+- Resources
+  - HTML, images
+- URL
+- HTTP

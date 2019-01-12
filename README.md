@@ -2,7 +2,7 @@
 
 This tutorial is a crash course for a beginner who wants to learn Web Programming.
 
-## [HTML](https://github.com/costaivo/Tutorial-BootStrap/tree/master/1_HTML)
+## [HTML](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/)
 
 - Introduction to HTML
 - HTML 5
@@ -31,10 +31,17 @@ This tutorial is a crash course for a beginner who wants to learn Web Programmin
 
 ## BootStrap
 
-
 ## Github
 
 ## References
+
+### Survey Link
+
+https://ivocosta1.typeform.com/to/Q8VI4d
+
+### Web References
+
+https://developer.mozilla.org
 
 https://html.com/anchors-links/
 
@@ -55,3 +62,7 @@ https://app.pluralsight.com/library/courses/your-first-day-html-1665/table-of-co
 https://app.pluralsight.com/player?course=your-first-day-html-1665&author=susan-simkins&name=your-first-day-html-1665-m1&clip=0&mode=live
 
 https://app.pluralsight.com/player?course=semantic-html-2329&author=susan-simkins&name=semantic-html-2329-m2&clip=0
+
+https://html-online.com/editor/
+
+https://codepen.io/
