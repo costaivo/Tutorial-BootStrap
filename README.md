@@ -37,11 +37,11 @@ This tutorial is a crash course for a beginner who wants to learn Web Programmin
 
 ### Survey Link
 
-https://ivocosta1.typeform.com/to/Q8VI4d
+[Student Course Registration Form](https://ivocosta1.typeform.com/to/Q8VI4d)
 
 ### Web References
 
-https://developer.mozilla.org
+[Mozilla Developer :Learn Web Developement](https://developer.mozilla.org/en-US/docs/Learn)
 
 https://html.com/anchors-links/
 
