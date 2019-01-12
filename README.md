@@ -41,7 +41,7 @@ This tutorial is a crash course for a beginner who wants to learn Web Programmin
 
 ### Web References
 
-[Mozilla Developer :Learn Web Developement](https://developer.mozilla.org/en-US/docs/Learn)
+[Mozilla Developer :Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
 
 https://html.com/anchors-links/
 
