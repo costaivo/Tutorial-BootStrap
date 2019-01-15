@@ -2,9 +2,9 @@
 
 ## Introduction to VSCode
 
-- Demo on Using VSCode
-- Installing the LiveServer Extension
-- Installing the Prettier extension
+- Demo on Using [VSCode](https://code.visualstudio.com/)
+- Installing the [LiveServer Extension](https://ritwickdey.github.io/vscode-live-server/)
+- Installing the [Prettier extension](https://prettier.io/)
 
 ## What is HTML
 
