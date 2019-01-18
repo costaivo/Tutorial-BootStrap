@@ -28,7 +28,8 @@ This tutorial is a crash course for a beginner who wants to learn Web Programmin
 - CSS Basics
 - Rules
 - Selectors
-- Adding CSS in HTML Page
+- Linking External CSS file
+- Cascading and Inheritance
 
 ## JavaScript
 

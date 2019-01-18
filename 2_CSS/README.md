@@ -99,7 +99,7 @@ ul em {
 }
 ```
 
-## Adding CSS in HTML Page
+## Linking External CSS file
 
 ```
 
