@@ -47,6 +47,12 @@
         ul li {
             color: sienna;
         }
+
+        /* child Selectors */
+        div>p {
+            background-color: slateblue;
+            color: white;
+        }
     </style>
 </head>
 
@@ -80,6 +86,26 @@
         <li>Javascript</li>
     </ul>
 
+    <!-- Descendent Selector will still work here-->
+    <ul>
+        <div>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Javascript</li>
+        </div>
+    </ul>
+    <hr>
+    <h3>Child Selectors</h3>
+    <div>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta voluptatem officia doloremque eligendi reprehenderit saepe eum quaerat alias totam distinctio?</p>
+    </div>
+
+    <!-- Child Selector wont work here-->
+    <div>
+        <span>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, eius consequuntur necessitatibus asperiores saepe excepturi rerum facere libero vero. Totam dignissimos pariatur minima laborum, architecto ducimus reiciendis velit molestiae impedit.</p>
+        </span>
+    </div>
 </body>
 
 </html>

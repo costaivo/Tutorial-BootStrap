@@ -99,6 +99,14 @@ ul em {
 }
 ```
 
+### Child Selectors
+
+```javascript
+ul em {
+   color: #000000;
+}
+```
+
 ## Linking External CSS file
 
 ```
