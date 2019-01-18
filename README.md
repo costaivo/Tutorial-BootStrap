@@ -28,12 +28,18 @@ This tutorial is a crash course for a beginner who wants to learn Web Programmin
 - CSS Basics
 - Rules
 - Selectors
+- Adding CSS in HTML Page
 
 ## JavaScript
 
 - What is JavaScript
+- Why learn JavaScript
 
 ## BootStrap
+
+- What is BootStrap
+- Add BootStrap to your HTML page
+- Typography
 
 ## Github
 
