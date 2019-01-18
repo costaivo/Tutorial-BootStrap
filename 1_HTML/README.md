@@ -13,7 +13,13 @@ A Markup language basically annotates the text so that the computer can manipula
 
 When a browser (IE,Chrome,Firefox) displays a webpage, it reads the contents and interprets the HTML.
 
-HTML is a set of pre-defined elements or tags that tell browser what content to display and how to display that content
+HTML is a set of pre-defined elements or tags that tell browser what content to display and how to display that content.
+
+HTML (Hypertext Markup Language) is the basic language that websites are built in. It’s right underneath the surface of everything you see on the web and you can uncover it with a couple quick steps. Try this:
+
+- Open a new browser window or tab and go to flatironschool.com.
+- Right-click anywhere in the browser screen and choose “View Page Source.”
+- Behold the HTML!
 
 ## TAGS
 
@@ -54,6 +60,27 @@ Elements usually have a start and closing tag, like <p></p>. But there are some 
 <hr />
 ```
 
+## Structure of HTML Page
+
+```html
+<!DOCTYPE html>
+<html>
+  <!--THIS IS THE HEAD SECTION -->
+
+  <head>
+    <title>Document</title>
+  </head>
+
+  <!-- THIS IS THE BODY SECTION-->
+
+  <body></body>
+</html>
+```
+
+- The **<html>** tag tells the browser "hey contained in here is a bunch of HTML code."
+- The **<head>** tag we don't really use just yet, but it will contain our references to outside bits of code such as CSS or Javascript.
+- The **<body>** tag tells the browser "contained in here is the stuff I actually want you to show the user."
+
 ## Commenting HTML Code
 
 A comment starts with the tag **<!--** and ends with tag **-->**. Whatever content is added inside a comment tag is never displayed in the browser.
@@ -89,9 +116,7 @@ https://validator.w3.org/nu/#file
 
 Creating two demo HTML pages using raw text content
 
-### Contents of Web
+### References for Further Learning
 
-- Resources
-  - HTML, images
-- URL
-- HTTP
+- [HTML Dog HTML Tags](http://www.htmldog.com/references/html/tags/)
+- [Mozilla Developer Network HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)

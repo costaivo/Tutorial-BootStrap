@@ -25,9 +25,13 @@ This tutorial is a crash course for a beginner who wants to learn Web Programmin
 
 ## CSS
 
-- ID & Classes
+- CSS Basics
+- Rules
+- Selectors
 
 ## JavaScript
+
+- What is JavaScript
 
 ## BootStrap
 
