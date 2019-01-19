@@ -53,6 +53,10 @@ A content delivery network (CDN) is a system of distributed servers (network) th
 ></script>
 ```
 
+## [Exploring](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/2_Exploring)
+
+In this section we will try different components in Bootstrap randomly.
+
 https://pixabay.com
 
 https://fonts.google.com

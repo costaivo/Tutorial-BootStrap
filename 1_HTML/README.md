@@ -146,21 +146,42 @@ Example:
 
 ### HTML Tags related to Formatting
 
-<b> - Bold text
-<strong> - Important text
-<i> - Italic text
-<em> - Emphasized text
-<mark> - Marked text
-<small> - Small text
-<del> - Deleted text
-<ins> - Inserted text
-<sub> - Subscript text
-<sup> - Superscript text
+- <b> - Bold text
+- <strong> - Important text
+- <i> - Italic text
+- <em> - Emphasized text
+- <mark> - Marked text
+- <small> - Small text
+- <del> - Deleted text
+- <ins> - Inserted text
+- <sub> - Subscript text
+- <sup> - Superscript text
 
 ### Lists
 
-Unordered lists
-Ordered lists
+**Unordered lists**
+
+```html
+<ul>
+  <li>One</li>
+  <li>Two</li>
+  <li>Three</li>
+  <li>four</li>
+  <li>five</li>
+</ul>
+```
+
+**Ordered lists**
+
+```html
+<ol>
+  <li>One</li>
+  <li>Two</li>
+  <li>Three</li>
+  <li>four</li>
+  <li>five</li>
+</ol>
+```
 
 ### Tables
 
