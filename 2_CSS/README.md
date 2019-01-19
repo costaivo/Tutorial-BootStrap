@@ -7,6 +7,10 @@ CSS describes how the HTML elements should be displayed.
 Mixing content and presentation is difficult to maintain.
 CSS helps seperate presentation rules with structrue
 
+### [Demo : How CSS Works](http://www.costaivo.com/Tutorial-BootStrap/2_CSS/1_Introduction/index.html)
+
+In Demo we will see how applying css makes visual difference to a page.
+
 ### Add style to HTML page
 
 ```html
@@ -19,7 +23,7 @@ CSS helps seperate presentation rules with structrue
 </head>
 ```
 
-### Add styles in seperate page.
+### Add styles in separate page.
 
 Adding styles in seperate page allow the same styles to applies across multiple pages
 
