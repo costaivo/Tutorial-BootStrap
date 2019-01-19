@@ -29,3 +29,8 @@ JavaScript is a programming language of HTML and the web.
   </body>
 </html>
 ```
+
+## [W3Schools](https://www.w3schools.com)
+
+W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references.
+Sharpen your skills in HTML, CSS and JavaScript using W3Schools guides.
