@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<!--THIS IS THE HEAD SECTION -->
+
+<head>
+    <title>Document</title>
+    <style>
+        /*SIMPLE Selectors */
+        body {
+            background-color: lightblue
+        }
+
+        p {
+            color: red;
+            font-style: italic;
+            font-weight: bolder;
+            font-size: xx-large;
+            margin: 0px;
+            padding: 0px;
+        }
+
+        h3 {
+            margin: 10px;
+            padding: 0px;
+        }
+
+        /*ID Selectors */
+        #mySuperHeader {
+            background-color: #ffff00;
+            color: blue;
+            font-style: italic;
+            font-size: xx-small;
+        }
+
+        /*Class Selectors */
+        .greenPara {
+            color: green
+        }
+
+        /* Universal Selectors*/
+        * {
+            color: #000000;
+            font-family: monospace
+        }
+
+        /* Descendant Selectors */
+        ul li {
+            color: sienna;
+        }
+
+        /* child Selectors */
+        div>p {
+            background-color: slateblue;
+            color: white;
+        }
+    </style>
+</head>
+
+<!-- THIS IS THE BODY SECTION-->
+
+<body>
+    <h3>Simple Selector</h3>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt tenetur sequi suscipit nesciunt aliquid nihil quisquam impedit dicta. Perspiciatis, optio.</p>
+    <hr>
+
+    <h3>ID Selector</h3>
+    <p id="mySuperHeader">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, optio aspernatur. Optio quam provident dolorem natus soluta exercitationem aliquam labore culpa consequatur impedit saepe consectetur a facilis sed fuga nulla error harum quaerat aspernatur, quos explicabo. Fugiat et laudantium possimus nesciunt amet a cumque. Alias incidunt dignissimos soluta totam blanditiis voluptatem? Facere enim dolor cupiditate similique incidunt consequuntur! Aut nobis aliquam
+        modi et velit,
+        corporis deleniti facere, consequatur assumenda iusto quasi obcaecati accusamus cum molestias quia! Labore nam, placeat non quibusdam quae ipsum, numquam ut molestiae excepturi sed voluptatem aliquam vero doloremque repudiandae. Voluptates doloribus nostrum aut, nam aperiam explicabo!</p>
+    <hr>
+
+    <h3>Class Selector</h3>
+    <p class="greenPara">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga harum inventore soluta quis voluptate. Asperiores temporibus voluptas eius reiciendis odio!</p>
+    <hr>
+    <h3>Universal Selectors</h3>
+    <ol>
+        <li>Web Developer</li>
+        <li>QA</li>
+        <li>DBA</li>
+    </ol>
+    <hr>
+    <h3>Descendant Selectors</h3>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Javascript</li>
+    </ul>
+
+    <!-- Descendent Selector will still work here-->
+    <ul>
+        <div>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Javascript</li>
+        </div>
+    </ul>
+    <hr>
+    <h3>Child Selectors</h3>
+    <div>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta voluptatem officia doloremque eligendi reprehenderit saepe eum quaerat alias totam distinctio?</p>
+    </div>
+
+    <!-- Child Selector wont work here-->
+    <div>
+        <span>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, eius consequuntur necessitatibus asperiores saepe excepturi rerum facere libero vero. Totam dignissimos pariatur minima laborum, architecto ducimus reiciendis velit molestiae impedit.</p>
+        </span>
+    </div>
+</body>
+
+</html>

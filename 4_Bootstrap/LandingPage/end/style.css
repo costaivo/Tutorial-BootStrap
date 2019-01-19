@@ -1,0 +1,20 @@
+body {
+    background: url(coffee_cup.jpg) no-repeat fixed;
+    background-size: cover;
+}
+
+.hero {
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: -0.05em;
+    line-height: 1.2em;
+    margin-top: 100px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.my-thumbnail {
+    height: 100px;
+    width: 200px;
+
+}
