@@ -22,12 +22,11 @@ This tutorial is a crash course for a beginner who wants to learn Web Programmin
 - Tables
 - Using Browser tools to inspect page content
 - Forms
-- Project Demo: LIVE- Text to HTML page (Honeybees)
-- Project Demo: DIY - Text to HTML page (Career Options for Software Developers)
-- Project Demo: Live - Adding Styles to HTML page (Honeybees)
-- Project Demo: DIY - Adding Styles to HTML page (Career Options for Software Developers)
+- **Project Demo: LIVE**- _Text to HTML page (Honeybees)_
+- **Project Demo: DIY** - _Text to HTML page (Career Options for Software Developers)_
+- **Project Demo: Live** - _Adding Styles to HTML page (Honeybees)_
+- **Project Demo: DIY**- _Adding Styles to HTML page (Career Options for Software Developers)_
 - [QUIZ HTML](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/8_Quiz/HTML-Quiz.html)
--
 
 ## [CSS](http://www.costaivo.com/Tutorial-BootStrap/2_CSS)
 
@@ -36,8 +35,8 @@ This tutorial is a crash course for a beginner who wants to learn Web Programmin
 - Selectors
 - Linking External CSS file
 - Cascading and Inheritance
-- Project Demo: Live - Adding CSS to HTML page (Honeybees)
-- Project Demo: DIY - Adding CSS to HTML page (Career Options for Software Developers)
+- **Project Demo:Live** - _Adding CSS to HTML page (Honeybees)_
+- **Project Demo:DIY** - _Adding CSS to HTML page (Career Options for Software Developers)_
 - - [QUIZ CSS](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/8_Quiz/HTML-Quiz.html)
 
 ## [JavaScript](http://www.costaivo.com/Tutorial-BootStrap/3_JavaScript)
@@ -55,7 +54,8 @@ This tutorial is a crash course for a beginner who wants to learn Web Programmin
 - Project Demo: Creating a Landing page
 - CSS Components
 - Grid System & Flexbox
-- Project Demo :
+- **Project Demo : ** _Social Page_
+- **Project Demo : ** _Multi Page Theme_
 
 ## Github
 
