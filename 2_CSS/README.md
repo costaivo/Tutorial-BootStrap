@@ -4,6 +4,38 @@
 
 HTML allows us to view text and pictures on the webpage. CSS exists to make the content on the page look good.
 CSS describes how the HTML elements should be displayed.
+Mixing content and presentation is difficult to maintain.
+CSS helps seperate presentation rules with structrue
+
+### Add style to HTML page
+
+```html
+<head>
+  <style type="text/css">
+    body {
+      background-color: red;
+    }
+  </style>
+</head>
+```
+
+### Add styles in seperate page.
+
+Adding styles in seperate page allow the same styles to applies across multiple pages
+
+## File:styles.css
+
+```html
+body {background-color:red}
+```
+
+## File:index.html
+
+```html
+<head>
+  <link rel="stylesheet" href="styles.css" type="text/css" />
+</head>
+```
 
 ## Style Rules
 
