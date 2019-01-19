@@ -51,7 +51,7 @@ This tutorial is a crash course for a beginner who wants to learn Web Programmin
   - Referencing Bootstrap files from CDN
   - Referencing Bootstrap files from local folder
 - Typography & Utilities
-- Project Demo: Creating a Landing page
+- **Project Demo:** _Creating a Landing page_
 - CSS Components
 - Grid System & Flexbox
 - **Project Demo : ** _Social Page_
