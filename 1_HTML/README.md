@@ -6,6 +6,11 @@
 - Installing the [LiveServer Extension](https://ritwickdey.github.io/vscode-live-server/)
 - Installing the [Prettier extension](https://prettier.io/)
 
+## Before we start 
+
+[Let look at the survey results to see what skills you already have](https://ivocosta1.typeform.com/report/Q8VI4d/yoBybcHpj6P1tNem)
+
+
 ## What is HTML
 
 HTML stands for _Hyper Text markup language_
@@ -187,6 +192,11 @@ Example:
 
 ### Quotations
 
+```html
+    <blockquote>
+      <p>This is a blockquote</p>
+    </blockquote>
+```
 ## Quiz
 
 ### References for Further Learning
