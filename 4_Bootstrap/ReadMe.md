@@ -1,4 +1,6 @@
-Advantages of BootStrap
+# BootStrap Tutorial
+
+## Advantages of BootStrap
 
 - Responsive application
   http://takachizu.org/

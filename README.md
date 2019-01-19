@@ -26,6 +26,8 @@ This tutorial is a crash course for a beginner who wants to learn Web Programmin
 - Project Demo: DIY - Text to HTML page (Career Options for Software Developers)
 - Project Demo: Live - Adding Styles to HTML page (Honeybees)
 - Project Demo: DIY - Adding Styles to HTML page (Career Options for Software Developers)
+- [QUIZ HTML](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/8_Quiz/HTML-Quiz.html)
+-
 
 ## [CSS](http://www.costaivo.com/Tutorial-BootStrap/2_CSS)
 
@@ -36,6 +38,7 @@ This tutorial is a crash course for a beginner who wants to learn Web Programmin
 - Cascading and Inheritance
 - Project Demo: Live - Adding CSS to HTML page (Honeybees)
 - Project Demo: DIY - Adding CSS to HTML page (Career Options for Software Developers)
+- - [QUIZ CSS](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/8_Quiz/HTML-Quiz.html)
 
 ## [JavaScript](http://www.costaivo.com/Tutorial-BootStrap/3_JavaScript)
 
