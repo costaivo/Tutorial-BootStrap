@@ -13,7 +13,7 @@
 
 <body>
   <header>
-    <h1 class="display-3 text-center my-4">Basic Typography</h1>
+    <h1 class="display-3 text-center my-4">Grid System</h1>
     <div class="container">
       <div class="row">
         <div class="col-md-3">
@@ -85,108 +85,112 @@
   </header>
 
   <div class="container">
-    <!--####################START HERE######################-->
+    <!--####################START HERE####################-->
 
-    <!-- HEADINGS -->
-    <h1>Heading One</h1>
-    <h2>Heading Two</h2>
-    <h3>Heading Three</h3>
-    <h4>Heading Four</h4>
-    <h5>Heading Five</h5>
-    <h6>Heading Six</h6>
-
-    <br>
-    <br>
-
-
-    <!-- DISPLAY CLASSES -->
-    <h1>Display 1</h1>
-    <h1>Display 2</h1>
-    <h1>Display 3</h1>
-    <h1>Display 4</h1>
-
-    <br>
-    <br>
-
-    <!-- PARAGRAPHS -->
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam dolore repellendus veniam consequatur vero numquam
-      voluptatem quam ab expedita eum, ipsam? Necessitatibus dicta quaerat, vitae dolorum, dolor autem reiciendis sapiente.</p>
-
-    <!-- LEAD -->
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam dolore repellendus veniam consequatur vero numquam
-      voluptatem quam ab expedita eum, ipsam? Necessitatibus dicta quaerat, vitae dolorum, dolor autem reiciendis sapiente.</p>
-
-    <!-- MONOSPACE PARAGRAPH -->
-    <p>My monospace paragraph</p>
-
-    <!-- STYLE CLASSES -->
-    <p>Bold Text</p>
-    <p>Normal Text</p>
-    <p>Italic Text</p>
-
-    <!-- TEXT TRANSFORMS -->
-    <p>MAKE LOWERCASE</p>
-    <p>make uppercase</p>
-    <p>make capitalized</p>
-
-    <br>
-    <br>
-
-    <!-- BLOCKQUOTES -->
-    <blockquote>
-      <p>This is a blockquote</p>
-    </blockquote>
-
-    <!-- BLOCKQUOTE RIGHT ALIGNED -->
-    <blockquote>
-      <p>This is a blockquote aligned right</p>
-    </blockquote>
-
-    <!-- BLOCKQUOTE WITH FOOTER -->
-    <blockquote>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-      <footer>Someone famous in
-        <cite title="Source Title">Source Title</cite>
-      </footer>
-    </blockquote>
-
-    <br>
-    <br>
-
-    <!-- TEXT TRUNCATE -->
+    <!-- RESPONSIVE GRID -->
     <div>
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda repellat nobis sunt qui consequatur architecto veritatis,
-      iure odit, debitis pariatur perspiciatis? Asperiores facere veniam, totam ullam dignissimos voluptate atque! Eos, animi
-      quos. Sint magni nulla provident et consequatur officia tempora!
+      <div style="border:1px solid #333">
+        <ul>
+          <li>6 column on small screens</li>
+          <li>8 column on medium screen</li>
+          <li>9 column on large screen</li>
+          <li>10 column on xlarge screen</li>
+        </ul>
+      </div>
+      <div style="border:1px solid #333">
+        <ul>
+          <li>6 column on small screens</li>
+          <li>4 column on medium screen</li>
+          <li>3 column on large screen</li>
+          <li>2 column on xlarge screen</li>
+        </ul>
+      </div>
     </div>
 
-    <br>
-    <br>
+    <!-- EQUAL WIDTH -->
+    <div>
+      <div style="border:1px solid #333">Equal Width</div>
+      <div style="border:1px solid #333">Equal Width</div>
+      <div style="border:1px solid #333">Equal Width</div>
+      <div style="border:1px solid #333">Equal Width</div>
+    </div>
 
-    <!-- LISTS -->
-    <ul>
-      <li>Lorem ipsum dolor sit amet.</li>
-      <li>Lorem ipsum dolor sit amet.</li>
-      <li>Lorem ipsum dolor sit amet.</li>
-      <li>Lorem ipsum dolor sit amet.</li>
-    </ul>
+    <!-- EQUAL WIDTH MULTI ROW -->
+    <div>
+      <div style="border:1px solid #333">Equal Width Multi</div>
+      <div style="border:1px solid #333">Equal Width Multi</div>
+      <div style="border:1px solid #333"></div>
+      <div style="border:1px solid #333">Equal Width Multi</div>
+      <div style="border:1px solid #333">Equal Width Multi</div>
+    </div>
 
-    <!-- INLINE LIST -->
-    <ul>
-      <li>Lorem ipsum</li>
-      <li>Lorem ipsum </li>
-      <li>Lorem ipsum </li>
-    </ul>
-  </div>
+    <!-- AUTO LAYOUT -->
+    <div>
+      <div style="border:1px solid #333">Auto Layout</div>
+      <div style="border:1px solid #333">Auto Layout</div>
+      <div style="border:1px solid #333">Auto Layout</div>
+    </div>
 
-  <div style="margin-top:500px;"></div>
+    <!-- EQUAL WIDTH STACKED -->
+    <div>
+      <div style="border:1px solid #333">Equal Width Stack</div>
+      <div style="border:1px solid #333">Equal Width Stack</div>
+      <div style="border:1px solid #333">Equal Width Stack</div>
+    </div>
 
-  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-    crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
-    crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
-    crossorigin="anonymous"></script>
+    <!-- ORDERING -->
+    <div>
+      <div style="border:1px solid #333">
+        First
+      </div>
+      <div style="border:1px solid #333">
+        Second
+      </div>
+      <div style="border:1px solid #333">
+        Third
+      </div>
+    </div>
+
+    <!-- OFFSETTING -->
+    <div>
+      <!-- 6 column div offset by 3 -->
+      <div style="border:1px solid #333">.col-md-6 .offset-md-3</div>
+    </div>
+    <div>
+      <!-- 2 4 column divs, the second offset by 4 -->
+      <div style="border:1px solid #333">.col-md-4</div>
+      <div style="border:1px solid #333">.col-md-4 .offset-md-4</div>
+    </div>
+
+    <div>
+      <!-- 2 3 column divs, both offset by 3 -->
+      <div style="border:1px solid #333">.col-md-3 .offset-md-3</div>
+      <div style="border:1px solid #333">.col-md-3 .offset-md-3</div>
+    </div>
+
+    <!-- NESTING -->
+    <div>
+      <div style="border:1px solid blue">
+        Level 1: .col-sm-9
+        <div>
+          <div style="border:1px solid red">
+            Level 2: .col-8 .col-sm-6
+          </div>
+          <div style="border:1px solid red">
+            Level 2: .col-4 .col-sm-6
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div style="margin-top:500px;"></div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+      crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+      crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
+      crossorigin="anonymous"></script>
 </body>
 
 </html>
