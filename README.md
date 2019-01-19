@@ -27,7 +27,7 @@ This tutorial is a crash course for a beginner who wants to learn Web Programmin
 - Project Demo: Live - Adding Styles to HTML page (Honeybees)
 - Project Demo: DIY - Adding Styles to HTML page (Career Options for Software Developers)
 
-## CSS
+## [CSS](http://www.costaivo.com/Tutorial-BootStrap/2_CSS)
 
 - CSS Basics
 - Rules
@@ -37,12 +37,12 @@ This tutorial is a crash course for a beginner who wants to learn Web Programmin
 - Project Demo: Live - Adding CSS to HTML page (Honeybees)
 - Project Demo: DIY - Adding CSS to HTML page (Career Options for Software Developers)
 
-## JavaScript
+## [JavaScript](http://www.costaivo.com/Tutorial-BootStrap/3_JavaScript)
 
 - What is JavaScript
 - Why learn JavaScript
 
-## BootStrap
+## [BootStrap](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap)
 
 - What is BootStrap
 - Add BootStrap to your HTML page
