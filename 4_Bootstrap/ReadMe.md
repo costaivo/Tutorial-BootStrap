@@ -71,10 +71,13 @@ https://fonts.google.com
 [W3Schools :Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 ## [Learing bootStrap using Sandbox project](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/3_Sandbox/2_2_basic_typography.html)
-- Typography
-- Text Alignment
-- Floats & Position
-- Color & Background Color
+- [Typography](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/2_2_basic_typography.html)
+  - [offical doc](https://getbootstrap.com/docs/4.1/content/typography/)
+- [Text Alignment](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/2_3_text_alignment_display.html)
+  - [offical doc](https://getbootstrap.com/docs/4.1/utilities/text/#text-alignment)
+- [Floats & Position](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/2_4_floats_position.html)
+- [Color & Background Color](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/2_5_colors_background.html)
+  - [offical docs](https://getbootstrap.com/docs/4.1/utilities/colors/)
 - Spacing
 - Sizing
 - Breakpoints
