@@ -61,4 +61,44 @@ https://pixabay.com
 
 https://fonts.google.com
 
+## HTML Semantic Elements
+- The Study that examines the meaning of phrases and words is called semantics
+- Elements with meaning are called semantic elements
+- A Semantic element clearly defines its meaning both to the developer and the browser
+ **Example:** `<div> <span>` - does not explain anything about its content
+`<form> <table> <article>` - this tags clearly defines its contents
+
+[W3Schools :Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+
 ## [Learing bootStrap using Sandbox project](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/3_Sandbox/2_2_basic_typography.html)
+- Typography
+- Text Alignment
+- Floats & Position
+- Color & Background Color
+- Spacing
+- Sizing
+- Breakpoints
+- Buttons
+- NavBar
+- Lists Groups Badges
+- Forms
+- Input Groups
+- Alerts Progress
+- Tables & Pagination
+- Cards
+- Media Objects
+- Jumbotron
+- Grid System
+- Grid Alignment
+- Flexbox
+- Auto Margin Wrapping Order
+- Carousel
+- Collapse
+- Tooltips
+- Popovers
+- Modals
+- Scrolls
+
+
+
+
