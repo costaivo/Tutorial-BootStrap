@@ -57,32 +57,49 @@
                     <div class="dropdown-menu"
                          aria-labelledby="dropdownId">
                         <a class="dropdown-item"
-                           href="#">HTML</a>
+                           href="#" onclick="toggle_div('htmlQuizBlock')">HTML</a>
                         <a class="dropdown-item"
-                           href="#">CSS</a>
+                           href="#" onclick="toggle_div('cssQuizBlock')">CSS</a>
+                        <a class="dropdown-item"
+                           href="#" onclick="toggle_div('bootstrapQuizBlock')">Bootstrap</a>
+                           
                     </div>
                 </li>
             </ul>
         </div>
     </nav>
     <!-- END:NAV BAR-->
-    <div class="container">
-        <h1 class="display-3">HTML Quiz</h1>
-        <ol>
-            <li> What does HTML stand for?</li>
-            <li> What is the largest heading element in HTML?</li>
-            <li> How can I insert a line break in HTML?</li>
-            <li> Write the Syntax to set blue color as background for the body tag</li>
-            <li> What is the tag to define important text?</li>
-            <li> Give Example of a block and Inline Elements</li>
-            <li> How can you open a link in a new tab/browser window?</li>
-            <li>How to represent a table in HTML</li>
-            <li>Inline elements are normally displayed without starting a new line.</li>
-            <li>Syntax for creating an ordered list and bulleted list</li>
-        </ol>
 
-        <h1 class="display-3">CSS Quiz</h1>
-        <ol>
+
+
+    <div class="container">
+         <div id="quizLanding" Style="display :block;">
+             <h1 class="display-2 mt-5 text-secondary"> Welcome to the Quiz Section!</h1>
+
+             <h3 class="display-5 text-center m-5 text-success">Please Select a Quiz Topic from the dropdown</h1>
+         </div>
+          <div id="htmlQuizBlock" Style="display :none;" >
+            <h1 class="display-3 mt-5 text-primary">HTML Quiz</h1>
+            <ol class="mt-5">
+                <li> What does HTML stand for?</li>
+                <li> What is the largest heading element in HTML?</li>
+                <li> How can I insert a line break in HTML?</li>
+                <li> Write the Syntax to set blue color as background for the body tag</li>
+                <li> What is the tag to define important text?</li>
+                <li> Give Example of a block and Inline Elements</li>
+                <li> How can you open a link in a new tab/browser window?</li>
+                <li>How to represent a table in HTML</li>
+                <li>Inline elements are normally displayed without starting a new line.</li>
+                <li>Syntax for creating an ordered list and bulleted list</li>
+            </ol>
+            <br>
+            <hr>
+        </div>
+
+
+    <div id="cssQuizBlock" Style="display :none;">
+        <h1 class="display-3 mt-5 text-danger" >CSS Quiz</h1>
+        <ol class="mt-5">
             <li> CSS Stands for?</li>
             <li> Keeping Styles in a seperate file is better approach or in the same html file?</li>
             <li> How to link external css file into html page</li>
@@ -92,12 +109,20 @@
             <li> What are the different types of selectors</li>
             <li>What is the difference between child and descendent selector tag</li>
         </ol>
+        <br>
+        <hr>
+    </div>
 
-        <h1 class="display-3">Bootstrap Quiz</h1>
-        <ol>
+
+    <div id="bootstrapQuizBlock" Style="display :none;">
+        <h1 class="display-3 mt-5 text-success">Bootstrap Quiz</h1>
+        <ol class="mt-5">
             <li>What is BootStrap?</li>
-            <li>Is it possible to convert a <h1> to look like h6? </li>
+            <li>Is it possible to convert a &lt;h1&gt; tag to look like h6? </li>
         </ol>
+        <br>
+        <hr>
+    </div>
     </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -110,6 +135,34 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
             integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
             crossorigin="anonymous"></script>
+            <script type="text/JavaScript">
+                function toggle_div(divID){
+                    var divElement  =document.getElementById(divID);
+
+                    if(divElement.style.display === 'none')
+                        divElement.style.display ='block';
+         
+
+                    /* Hide Quiz Heading Div*/
+                    var quizLanding = document.getElementById('quizLanding');
+
+                    if(quizLanding.style.display==='block')
+                        quizLanding.style.display ='none';
+
+                    /* Hide other Quiz */
+                    if(divID==='htmlQuizBlock'){
+                        document.getElementById('cssQuizBlock').style.display='none';
+                        document.getElementById('bootstrapQuizBlock').style.display='none';
+                    }
+                    else if(divID==='cssQuizBlock'){
+                        document.getElementById('htmlQuizBlock').style.display='none';
+                        document.getElementById('bootstrapQuizBlock').style.display='none';
+                    } else if(divID==='bootstrapQuizBlock'){
+                        document.getElementById('htmlQuizBlock').style.display='none';
+                        document.getElementById('cssQuizBlock').style.display='none';
+                    }
+                }
+            </script>
 </body>
 
 </html>

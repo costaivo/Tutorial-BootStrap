@@ -72,7 +72,7 @@ https://fonts.google.com
 
 [W3Schools :Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
-## [Learing bootStrap using Sandbox project](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/3_Sandbox/2_2_basic_typography.html)
+## [Typography & Utilities](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/3_Sandbox/2_2_basic_typography.html)
 - [Typography](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/2_2_basic_typography.html)
   - [offical doc](https://getbootstrap.com/docs/4.1/content/typography/)
 - [Text Alignment](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/2_3_text_alignment_display.html)
@@ -83,6 +83,8 @@ https://fonts.google.com
 - [Spacing](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/2_5_colors_background.html)
 - [Sizing](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/2_6_spacing.html)
 - [Breakpoints](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/2_8_breakpoints.html)
+
+## [CSS Components](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/3_Sandbox/3_2_buttons.html)
 - [Buttons](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/3_2_buttons.html)
 - [NavBar](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/3_3_navbar.html)
 - [Lists Groups Badges](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/3_4_list_groups_badges.html)
@@ -93,10 +95,14 @@ https://fonts.google.com
 - [Cards](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/3_9_cards.html)
 - [Media Objects](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/3_10_media_object.html)
 - [Jumbotron](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/3_11_jumbotron.html)
+
+## [Grid System & Flexbox](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/3_Sandbox/4_2_grid_system.html)
 - [Grid System](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/4_2_grid_system.html)
 - [Grid Alignment](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/4_3_grid_alignment.html)
 - [Flexbox](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/4_4_flexbox.html)
 - [Auto Margin Wrapping Order](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_5_auto_margins_wrapping_order.html)
+
+## [JavaScript Widgets](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/3_Sandbox/5_2_carousel.html)
 - [Carousel](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/4_SandboxFinal/5_2_carousel.html)
 - [Collapse](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/5_3_collapse.html)
 - [Tooltips](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/5_4_tooltips.html)
