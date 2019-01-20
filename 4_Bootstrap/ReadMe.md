@@ -17,7 +17,9 @@
 
 ## Installing the required extensions
 
-[Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
+- [Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
+- [IntelliSense for CSS class names in HTML
+](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 
 ## Add BootStrap to your HTML page
 
