@@ -10,43 +10,57 @@
 
     <title>Bootstrap Sandbox</title>
     <style>
-        /* Small devices (landscape phones) */
+        /*************************** Min-Width  *******************************************
+            Here is an example of a min-width query.
+            @media only screen and (min-width: 600px)  {...}
+            What this query really means, is “If [device width] is greater than or equal to 600px, then do {…}”
+        */
+
+        /* Small devices (landscape phones) :576px*/
 
         @media () {}
 
-        /* Medium devices (tablets) */
+        /* Medium devices (tablets) : 768px*/
 
         @media () {}
 
-        /* Large devices (desktops) */
+        /* Large devices (desktops) :992px*/
 
         @media () {}
 
-        /* Extra large devices (large desktops) */
+        /* Extra large devices (large desktops) :1200px*/
 
         @media () {}
+
+        /************************* Max-Width *******************************************
+         Here is an example of a max-width query.
+         @media only screen and (max-width: 600px)  {...}
+         What this query really means, is “If [device width] is less than or equal to 600px, then do {…}”
+        */
 
         /* The given screen size or smaller */
 
-        /* Extra small devices (portrait phones)*/
+
+        /* Extra small devices (portrait phones) : 575px*/
 
         @media () {}
 
-        /* Small devices (landscape phones)*/
+        /* Small devices (landscape phones) :767px*/
 
         @media () {}
 
-        /* Medium devices (tablets)*/
+        /* Medium devices (tablets) : 991px*/
 
         @media () {}
 
-        /* Large devices (desktops)*/
+        /* Large devices (desktops) :1199px */
 
         @media () {}
     </style>
 </head>
 
 <body>
+   
     <header>
         <h1 class="display-3 text-center my-4">Breakpoints</h1>
         <div class="container">
@@ -133,6 +147,10 @@
         crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
         crossorigin="anonymous"></script>
+
+        <!-- Information Explaining Media Queries-->
+        <!--https://www.emailonacid.com/blog/article/email-development/emailology_media_queries_demystified_min-width_and_max-width/-->
+         <!-- https://medium.freecodecamp.org/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862 -->
 </body>
 
 </html>
