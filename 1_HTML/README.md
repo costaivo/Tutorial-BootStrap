@@ -151,16 +151,16 @@ Example:
 
 ### HTML Tags related to Formatting
 
-- <b> - Bold text
-- <strong> - Important text
-- <i> - Italic text
-- <em> - Emphasized text
-- <mark> - Marked text
-- <small> - Small text
-- <del> - Deleted text
-- <ins> - Inserted text
-- <sub> - Subscript text
-- <sup> - Superscript text
+- <b>Bold text
+- <strong>Important text
+- <i>Italic text
+- <em>Emphasized text
+- <mark>Marked text
+- <small>Small text
+- <del>Deleted text
+- <ins>Inserted text
+- <sub>Subscript text
+- <sup>Superscript text
 
 ### Lists
 
@@ -190,6 +190,20 @@ Example:
 
 ### Tables
 
+```html
+    <table style="width:100%">
+        <tr style="text-align: left">
+            <th>Name</th>
+            <th>Degree</th>
+            <th>Year</th>
+        </tr>
+        <tr>
+            <td>Student Name</td>
+            <td>Course Name</td>
+            <td>Semester</td>
+        </tr>
+```
+
 ### Quotations
 
 ```html
@@ -197,7 +211,7 @@ Example:
       <p>This is a blockquote</p>
     </blockquote>
 ```
-## Quiz
+## [Quiz]()
 
 ### References for Further Learning
 

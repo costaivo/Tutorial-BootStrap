@@ -17,7 +17,9 @@
 
 ## Installing the required extensions
 
-[Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
+- [Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
+- [IntelliSense for CSS class names in HTML
+](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 
 ## Add BootStrap to your HTML page
 
@@ -71,33 +73,36 @@ https://fonts.google.com
 [W3Schools :Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 ## [Learing bootStrap using Sandbox project](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/3_Sandbox/2_2_basic_typography.html)
-- Typography
-- Text Alignment
-- Floats & Position
-- Color & Background Color
-- Spacing
-- Sizing
-- Breakpoints
-- Buttons
-- NavBar
-- Lists Groups Badges
-- Forms
-- Input Groups
-- Alerts Progress
-- Tables & Pagination
-- Cards
-- Media Objects
-- Jumbotron
-- Grid System
-- Grid Alignment
-- Flexbox
-- Auto Margin Wrapping Order
-- Carousel
-- Collapse
-- Tooltips
-- Popovers
-- Modals
-- Scrolls
+- [Typography](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/2_2_basic_typography.html)
+  - [offical doc](https://getbootstrap.com/docs/4.1/content/typography/)
+- [Text Alignment](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/2_3_text_alignment_display.html)
+  - [offical doc](https://getbootstrap.com/docs/4.1/utilities/text/#text-alignment)
+- [Floats & Position](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/2_4_floats_position.html)
+- [Color & Background Color](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/2_5_colors_background.html)
+  - [offical docs](https://getbootstrap.com/docs/4.1/utilities/colors/)
+- [Spacing](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/2_5_colors_background.html)
+- [Sizing](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/2_6_spacing.html)
+- [Breakpoints](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/2_8_breakpoints.html)
+- [Buttons](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/3_2_buttons.html)
+- [NavBar](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/3_3_navbar.html)
+- [Lists Groups Badges](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/3_4_list_groups_badges.html)
+- [Forms](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/3_5_forms.html)
+- [Input Groups](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/3_6_input_groups.html)
+- [Alerts Progress](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/3_7_alerts_progress.html)
+- [Tables & Pagination](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/3_8_tables_pagination.html)
+- [Cards](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/3_9_cards.html)
+- [Media Objects](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/3_10_media_object.html)
+- [Jumbotron](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/3_11_jumbotron.html)
+- [Grid System](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/4_2_grid_system.html)
+- [Grid Alignment](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/4_3_grid_alignment.html)
+- [Flexbox](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/4_4_flexbox.html)
+- [Auto Margin Wrapping Order](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_5_auto_margins_wrapping_order.html)
+- [Carousel](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/4_SandboxFinal/5_2_carousel.html)
+- [Collapse](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/5_3_collapse.html)
+- [Tooltips](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/5_4_tooltips.html)
+- [Popovers](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/5_5_popovers.html)
+- [Modals](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/5_6_modals.html)
+- [Scrolls](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/5_7_scrollspy.html)
 
 
 
