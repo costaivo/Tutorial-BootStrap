@@ -6,6 +6,11 @@
 - Installing the [LiveServer Extension](https://ritwickdey.github.io/vscode-live-server/)
 - Installing the [Prettier extension](https://prettier.io/)
 
+## Before we start 
+
+[Let look at the survey results to see what skills you already have](https://ivocosta1.typeform.com/report/Q8VI4d/yoBybcHpj6P1tNem)
+
+
 ## What is HTML
 
 HTML stands for _Hyper Text markup language_
@@ -146,26 +151,52 @@ Example:
 
 ### HTML Tags related to Formatting
 
-<b> - Bold text
-<strong> - Important text
-<i> - Italic text
-<em> - Emphasized text
-<mark> - Marked text
-<small> - Small text
-<del> - Deleted text
-<ins> - Inserted text
-<sub> - Subscript text
-<sup> - Superscript text
+- <b> - Bold text
+- <strong> - Important text
+- <i> - Italic text
+- <em> - Emphasized text
+- <mark> - Marked text
+- <small> - Small text
+- <del> - Deleted text
+- <ins> - Inserted text
+- <sub> - Subscript text
+- <sup> - Superscript text
 
 ### Lists
 
-Unordered lists
-Ordered lists
+**Unordered lists**
+
+```html
+<ul>
+  <li>One</li>
+  <li>Two</li>
+  <li>Three</li>
+  <li>four</li>
+  <li>five</li>
+</ul>
+```
+
+**Ordered lists**
+
+```html
+<ol>
+  <li>One</li>
+  <li>Two</li>
+  <li>Three</li>
+  <li>four</li>
+  <li>five</li>
+</ol>
+```
 
 ### Tables
 
 ### Quotations
 
+```html
+    <blockquote>
+      <p>This is a blockquote</p>
+    </blockquote>
+```
 ## Quiz
 
 ### References for Further Learning
