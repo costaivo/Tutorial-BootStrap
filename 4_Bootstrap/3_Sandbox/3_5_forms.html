@@ -87,7 +87,7 @@
     <div class="container">
         <!--##################START HERE#####################-->
 
-        <!-- FORM :[form-group/form-control]-->
+        <!-- FORM : [form-group/form-control/form-control-lg/form-control-sm/small.form-text text-muted] -->
         <form>
             <!-- TEXT FIELD GROUPS -->
             <div>
@@ -106,7 +106,7 @@
                 <label for="password">Password</label>
                 <input type="password" id="password" placeholder="Password">
             </div>
-            <!-- SELECT -->
+            <!-- SELECT :[form-group/form-control]-->
             <div>
                 <label for="gender">Gender</label>
                 <select id="gender">
@@ -114,28 +114,30 @@
                     <option>Female</option>
                 </select>
             </div>
-            <!-- TEXTAREA -->
+
+            <!-- TEXTAREA :[form-group/form-control]-->
             <div>
                 <label for="message">Message</label>
                 <textarea id="message" rows="3"></textarea>
             </div>
-            <!-- FILE INPUT -->
+            <!-- FILE INPUT :[form-group/form-control-file/form-text text-muted]-->
             <div>
                 <label for="file">File input</label>
                 <input type="file" id="file">
                 <small id="fileHelp">Max 3mb size</small>
             </div>
-            <!-- CUSTOM FILE INPUT -->
+
+            <!-- CUSTOM FILE INPUT :[custom-file/custom-file-input/custom-file-label]-->
             <div>
                 <input type="file" id="myfile">
                 <label for="myfile">Choose file</label>
             </div>
             <br>
             <br>
-            <!-- RANGE -->
+            <!-- RANGE :[form-group/custom-range]-->
             <div>
                 <label for="membership">Membership Level</label>
-                <input type="range">
+                <input type="range" min="1",max="5" step="1" value="1">
             </div>
 
             <br>
@@ -146,7 +148,7 @@
         <br>
         <br>
 
-        <!-- INLINE FORM -->
+        <!-- INLINE FORM :[form-inline/form-control/form-check/form-check-label/form-check-input]-->
         <form>
             <input type="text" id="username" placeholder="Enter username">
             <input type="text" id="password" placeholder="Password">
@@ -162,7 +164,7 @@
         <br>
         <br>
 
-        <!-- FORM ROW -->
+        <!-- FORM ROW :[form-row/col/form-control]-->
         <form>
             <div>
                 <div>
@@ -177,7 +179,7 @@
         <br>
         <br>
 
-        <!-- VALIDATION -->
+        <!-- VALIDATION :[form-group/form-control/is-invalid/invalid-feedback-->
         <div>
             <label for="username">Username</label>
             <input type="text" id="username">
