@@ -293,3 +293,14 @@ https://fonts.google.com
 - add a button ` btn.btn.btn-primary`
 - add data-toggle="modal" data-target="#contactModal"
 
+### Contact Modal Section
+- add a div `.modal.fade.text-dark#contactModal`
+- create the modal structure ` .modal-dialog>.modal-content>.modal-header`
+- add modal title using h5 tag `h5.modal-title`
+- add a button to close `btn.close`
+- add span with close text `span>&times;`
+- add data-dimiss="modal" attribute to button
+- add the modal body `.modal-body>form`
+- add the form-group for name `.form-group>label+input:text.form-control`
+- repeat for email and message
+- add a button below  the modal-body
