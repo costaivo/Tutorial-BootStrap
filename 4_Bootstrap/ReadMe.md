@@ -237,5 +237,48 @@ https://fonts.google.com
 ```
 
 
-### Explore Section
+### Explore Head Section
 - Create the head section for explore `section#explore-head-section>.container>.row`
+- Add a div inside row `.col.text-center.py-5`
+- Add h1 tag `h1.display-4`
+- Add p tag with some lorem `p.lead>lorem20`
+- Add link button `a.btn.btn-outline-secondary`
+
+### Explore Body Section
+- Add section tag to wrap all the contents `section#explore-section.bg-light.text-muted.py-5`
+- Add a container div `.container>.row`
+- Split the row into two section of 6 columns each `.col-md-6*2`
+- Add the image tag in the first div `img-fluid mb-3 rounded-circle`
+- In the second div add h3 tag 'Explore & Connect'
+- Add lorem20
+- Below we will add checkboxes and lorem like it was done in the home section using d-flex
+- `.d-flex>.p-4.align-self-start`
+- Add the icon `i.fas.fa-check.fa-2x`
+- Add div and lorem content `.p-4.align-self-end>lorem15`
+- Repeat above to add two more checkbox options
+- Add css to format the checkboxes
+``` css
+#explore-section .fas{
+  background:#333;
+  color:#fff;
+  padding: 5px;
+  border-radius: 5px;
+
+}
+```
+
+### Create Head & Section
+- Copy the content in head & section of **Explore** and paste it for **Create**
+- Add class to change the background of the head section to blue
+- Change the h1 content to Create
+- Change the button to outline light
+- Change the id to create instead of explore
+- Change image to point to create section image
+- Change the text of h3 to 'Create your passion'
+- remove the bg-light and  text-muted class for create-section
+- swap the sections by specifying the order class
+- set the background for the checkboxes, by sharing the home section css
+
+### Share Head & Section 
+- Repeat the same steps used for create section.
+

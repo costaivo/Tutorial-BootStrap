@@ -8,7 +8,7 @@
     opacity:0.8;
   }
 
-  #home-section{
+#home-section{
     /*Sets the Background Image*/
     background:url(../img/home.jpg);
     background-repeat:no-repeat;
@@ -35,9 +35,17 @@
   opacity: 0.8;
 }
 
-#home-section .fas {
+#home-section .fas,#create-section .fas {
   color:#008ed6;
   background:#fff;
   padding:5px;
   border-radius:5px;
+}
+
+#explore-section .fas, #share-section .fas{
+  background:#333;
+  color:#fff;
+  padding: 5px;
+  border-radius: 5px;
+
 }
