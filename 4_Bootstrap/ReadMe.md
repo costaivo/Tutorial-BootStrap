@@ -181,6 +181,47 @@ https://fonts.google.com
 - Add a div below the 8 column div with 4 columns `.col-lg-4`
 - Add a card inside this div `card bg-primary text-center card-form`
 - Add the card body `.card-body`
-- 
+- Add h3 with content 'Sign Up Today'
+- Add p tag with content 'Please fill out this form to register'
+- add a form tag which will have the signUp form `form>.form-group`
+- add a input field ` input.form-control.form-control-lg` 
+- add placeholder to Username 
+- repeat the form-group and input for Email,Password and Confirm Password
+- add a submit button `input:submit` add class of `btn btn-outline-light`
+- add additional class for the submit button to make it a block `btn-block`
+- Now that the markup is compelete. Lets add some custom CSS to fix the layouts
+- Open the style.css file
+- Define rule for id selector #home-section
+```css
+  #home-section{
+    /*Sets the Background Image*/
+    background:url(../img/home.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    min-height: 700px;
+  }
+```
+- let setup the overlay
+```css
+#home-section .dark-overlay{
+  position: absolute;
+  top:0;
+  left:0;
+  width:100%;
+  min-height: 700px;
+  /* make the image darker */
+  background: rgba(0,0,0,0.7)
+}
+```
+- Now lets fix the padding of the home section
+```css
+#home-section .home-inner{
+  padding-top:150px
+}
+```
+
+
+
 ### Explore Section
 - Create the head section for explore `section#explore-head-section>.container>.row`
