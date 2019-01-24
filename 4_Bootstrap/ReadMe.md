@@ -111,5 +111,21 @@ https://fonts.google.com
 - [Scrolls](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/5_7_scrollspy.html)
 
 
+## Creating the Base Project
+
+- Add a new folder
+- create a sub-folder named css
+- create a file style.css inside the css folder
+- Create a sub-folder named images
+- Create an index.html file in the root folder
+- Add reference to the Bootstrap [CDN](https://getbootstrap.com/docs/4.0/getting-started/introduction/#css)
+- Add reference to the custom style.css
+- Add reference to the Script files
+  -  [Jquery CDN](http://code.jquery.com/) 
+  -  [PopperJS](https://getbootstrap.com/docs/4.0/getting-started/introduction/#js)
+  -  [BootstrapJS](https://getbootstrap.com/docs/4.0/getting-started/introduction/#js)  
+-  Added reference to font awesome [CDN](https://fontawesome.com/start)  
 
 
+
+## Creating the Social Project
