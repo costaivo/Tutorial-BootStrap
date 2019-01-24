@@ -51,11 +51,11 @@ Course Contents of **BootStrap Training**.
   - Referencing Bootstrap files from CDN
   - Referencing Bootstrap files from local folder
 - Typography & Utilities
-- **Project Demo:LIVE** - _Creating a Landing page_
+- **Project Demo:LIVE** - [_Creating a Landing page_](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/6_LandingPage/end/index.html)
 - CSS Components
 - Grid System & Flexbox
-- **Project Demo :** _Social Page_
-- **Project Demo :** _Multi Page Theme_
+- **Project Demo :** [_Social Page_](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/7_SocialApp/index.html)
+
 
 ## Github
 
@@ -70,3 +70,5 @@ Course Contents of **BootStrap Training**.
 ### Survey Link
 
 [Student Course Registration Form](https://ivocosta1.typeform.com/to/Q8VI4d)
+
+[Course Completion Survey](https://ivocosta1.typeform.com/to/EWX1YQ)

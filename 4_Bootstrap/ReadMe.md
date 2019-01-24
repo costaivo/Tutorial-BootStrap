@@ -127,8 +127,10 @@ https://fonts.google.com
 -  Added reference to font awesome [CDN](https://fontawesome.com/start)  
 
 
+## [Creating Landing Page Project](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/6_LandingPage/end/index.html)
 
-## Creating the Social Project
+
+## [Creating the Social Project](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/7_SocialApp/index.html)
 
 ### Setup project & Navbar
 - Make copy of the base project for initial setup
@@ -162,7 +164,23 @@ https://fonts.google.com
   ```
 ### Home Section
 - Create the Home Section below the Navbar
-- Create a header element
-
+- Create a header element with a div as a child `header#home-section>.dark-overlay`
+- inside the `dark-overlay` add another div `.home-inner.container` this will contain the contents of the section
+- Create the div for row & columns `.row>.col-lg-8.d-none.d-lg-block` 
+  - `col-lg-8` 8 column grid show on large screen
+  - `d-none` this will hide the block
+  - `d-lg-block` this will show the div as block on large screen
+- Add h1 tag `h1.display-4` with text `Build social profiles and gain revenue and profits` 
+- Preview your current changes and see the output. Dont worry about the text going under the navbar
+- Lets add flex container using `.d-flex`
+  - `.p-4.align-self-start`
+  - `i.fas.fa-check.fa-2x`
+  - Add another div `.p-4.align-self-end`
+  - Add some `lorem15`
+- Repeat the above steps for two other options from `d-flex`
+- Add a div below the 8 column div with 4 columns `.col-lg-4`
+- Add a card inside this div `card bg-primary text-center card-form`
+- Add the card body `.card-body`
+- 
 ### Explore Section
 - Create the head section for explore `section#explore-head-section>.container>.row`
