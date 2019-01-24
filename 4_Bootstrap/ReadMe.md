@@ -129,3 +129,40 @@ https://fonts.google.com
 
 
 ## Creating the Social Project
+
+### Setup project & Navbar
+- Make copy of the base project for initial setup
+- Rename the folder as SocialApp
+- Lets add the Navigation `navbar navbar-expand-sm bg-dark navbar-dark fixed-top`
+- Under the navbar we will add a container `.container`
+- Add a NavBrand `a.navbar-brand`
+- Add Hamburger Menu
+  - `button.navbar-toggler`
+  - Add attributes data-toggle="collapse" data-target="#navbarCollapse"
+  - Add a span inside the button to display the icon `span.navbar-toggler-icon`
+  - Create a div for navigation links `.collapse.navbar-collapse` with  id 'navbarCollapse'
+- Add the ul/li for Navigation links inside the div `ul.navbar-nav.ml-auto>li.nav-item*4>a.nav-link`
+  - Home
+  - Explore
+  - Create
+  - Share
+- Add the href to point to page bookmarks (#home,#explore-head-section,#create-head-section,#share-head-section)
+- Modify the style.css file and add the following css rules
+  ```css
+  body{
+    background:#333;
+    color:#fff;
+  }
+
+
+  .navbar {
+    border-bottom:#008ed6 3px solid;
+    opacity:0.8;
+  }
+  ```
+### Home Section
+- Create the Home Section below the Navbar
+- Create a header element
+
+### Explore Section
+- Create the head section for explore `section#explore-head-section>.container>.row`
