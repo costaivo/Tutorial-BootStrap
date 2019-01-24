@@ -304,3 +304,13 @@ https://fonts.google.com
 - add the form-group for name `.form-group>label+input:text.form-control`
 - repeat for email and message
 - add a button below  the modal-body
+
+
+### Smooth Scrolling
+- on the body tag add the attribute data-spy="scroll" data-target="#main-nav" and id as home
+- set the id of nav to main-nav
+- Initialize the scroll spy in the script section
+``` javascript
+   //Init Scrollspy
+    $('body').scrollspy({target:'#main-nav'});
+```
