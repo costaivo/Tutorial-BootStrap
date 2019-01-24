@@ -211,7 +211,7 @@ Example:
       <p>This is a blockquote</p>
     </blockquote>
 ```
-## [Quiz]()
+## [Quiz](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/9_Quiz/HTML-Quiz.html)
 
 ### References for Further Learning
 

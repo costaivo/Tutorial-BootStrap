@@ -26,7 +26,7 @@ Course Contents of **BootStrap Training**.
 - **Project Demo: DIY** - _Text to HTML page (Career Options for Software Developers)_
 - **Project Demo: LIVE** - _Adding Styles to HTML page (Honeybees)_
 - **Project Demo: DIY** - _Adding Styles to HTML page (Career Options for Software Developers)_
-- [QUIZ HTML](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/8_Quiz/HTML-Quiz.html)
+- [QUIZ HTML](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/9_Quiz/HTML-Quiz.html)
 
 ## [CSS](http://www.costaivo.com/Tutorial-BootStrap/2_CSS)
 
