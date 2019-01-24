@@ -30,3 +30,14 @@
 #home-section .home-inner{
   padding-top:150px
 }
+
+#home-section .card-form{
+  opacity: 0.8;
+}
+
+#home-section .fas {
+  color:#008ed6;
+  background:#fff;
+  padding:5px;
+  border-radius:5px;
+}

@@ -220,7 +220,21 @@ https://fonts.google.com
   padding-top:150px
 }
 ```
-
+- Set opacity for the card form
+``` css
+#home-section .card-form{
+  opacity: 0.8;
+}
+```
+- Set background for the ticks
+``` css
+#home-section .fas {
+  color:#008ed6;
+  background:#fff;
+  padding:5px;
+  border-radius:5px;
+}
+```
 
 
 ### Explore Section
