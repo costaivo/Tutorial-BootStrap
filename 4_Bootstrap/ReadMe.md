@@ -281,4 +281,15 @@ https://fonts.google.com
 
 ### Share Head & Section 
 - Repeat the same steps used for create section.
+- Change the colors to match the final project settings
+  
+  
+### Footer Section
+- add footer tag `footer#main-footer.bg-dark`
+- add a container div with row and col `.container>.row>.col.text-center.py-4`
+- add h3 tag with 'SocialApp'
+- add p tag with Copyright &copy;
+- add a span to display the year
+- add a button ` btn.btn.btn-primary`
+- add data-toggle="modal" data-target="#contactModal"
 
