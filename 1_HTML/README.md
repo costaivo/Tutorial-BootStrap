@@ -157,7 +157,7 @@ An Inline element does not start on a new line and takes up as much width as nec
 
 ## [Lesson 5: Other HTML Elements](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/6_More_Tags/end-more-tags.html)
 
-### HTML Tags related to Formatting
+### [HTML Tags related to Formatting](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/6_More_Tags/start-more-tags.html)
 
 - <b>Bold text
 - <strong>Important text
