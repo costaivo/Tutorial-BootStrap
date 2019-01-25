@@ -110,11 +110,17 @@ A comment starts with the tag `<!-- and ends with tag -->`. Whatever content is 
 
 The HTML <img> element embeds an image into the document.
 
-`<img src="http://www.itsgoa.com/wp-content/uploads/2017/05/Goa-tourism-780x405.jpg" alt="Goa Tourism" />`
+```html
+<img src="http://www.itsgoa.com/wp-content/uploads/2017/05/Goa-tourism-780x405.jpg" alt="Goa Tourism" />
+```
 
 ### Link Tag
 
-`<a href="https://en.wikipedia.org/wiki/HTML">Wiki Link: HTML </a>`
+The HTML tag <a> is used to define a hyperlink
+
+```html
+<a href="https://en.wikipedia.org/wiki/HTML">Wiki Link: HTML </a>
+```
 
 ### Web Standards
 
@@ -133,7 +139,7 @@ Block element always starts on a new line and takes up the full width available.
 
 Example:
 
-```HTML
+```html
 <div>Hello HTML</div>
 <article> i am a important text </article>
 ```
@@ -142,9 +148,9 @@ Example:
 
 An Inline element does not start on a new line and takes up as much width as necessary
 
-Example:
+_**Example:**_
 
-```HTML
+```html
 <span>Hello HTML</span>
 <strong> i am a important text </strong>
 ```
