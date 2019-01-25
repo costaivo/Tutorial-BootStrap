@@ -94,13 +94,12 @@ A comment starts with the tag `<!-- and ends with tag -->`. Whatever content is 
 
 - HTML element starts with a opening tag
 - HTML element ends with a closing tag
-- The letters between the < and > are abbreviations
 - The element content is everything between the **start tag** and the **end tag**
 - Some HTML elements are empty
 - Empty elements are closed in the **start tag**
 - Make it a habit to type all your tags in **lowercase** - it is considered good practice
 
-## Lesson 2
+## Lesson 2 : Attributes & Tags with attributes
 
 ### Attributes
 - Attribute is a characteristic of a element. E.g. font size or color.
@@ -122,9 +121,9 @@ The HTML <img> element embeds an image into the document.
 Validate if your webpage is well formed using the below url
 https://validator.w3.org/nu/#file
 
-## [Lesson 3 : Demo 1]()
+## [Lesson 3 : Demo 1](1_HTML/5_Demo/start-demo.html)
 
-Convert the text file to a HTML document
+Convert the [text](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/5_Demo/start-demo.html) file to a [HTML document](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/5_Demo/end-demo.html)
 
 ## Lesson 4 :HTML Block and Inline Elements
 
