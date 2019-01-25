@@ -129,6 +129,18 @@ https://fonts.google.com
 
 ## [Creating Landing Page Project](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/6_LandingPage/end/index.html)
 
+## [Creating Quiz App](http://www.costaivo.com/Tutorial-BootStrap/4_BootStrap/8_QuizApp/end/HTML-Quiz.html)
+- Lets make use of all the concepts we learned so far to implement this project
+- You will find the base project [here](http://www.costaivo.com/Tutorial-BootStrap/4_BootStrap/8_QuizApp/start/HTML-Quiz.html)
+- Implement the Navigation Menu
+- Implement the NavBrand
+- Implement the dropdown menu for Quiz
+- Implement the home section
+- Implement the HTML Quiz section
+- Implement the CSS Quiz section
+- Implement the Bootstrap Quiz section
+
+
 
 ## [Creating the Social Project](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/7_SocialApp/index.html)
 
