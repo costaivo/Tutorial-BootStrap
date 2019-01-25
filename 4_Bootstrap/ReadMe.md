@@ -157,23 +157,34 @@ In this section we will try different components in Bootstrap randomly. Using th
 ## [Creating the Social Project](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/7_SocialApp/index.html)
 
 ### Setup project & Navbar
-- Make copy of the base project for initial setup
-- Rename the folder as SocialApp
-- Lets add the Navigation `navbar navbar-expand-sm bg-dark navbar-dark fixed-top`
-- Under the navbar we will add a container `.container`
-- Add a NavBrand `a.navbar-brand`
+- Make copy of the **base project** for initial setup
+- Rename the folder as **SocialApp**
+- Lets add the Navigation 
+```css
+navbar navbar-expand-sm bg-dark navbar-dark fixed-top
+```
+- Under the navbar we will add a container **`.container`**
+- Add a NavBrand **`a.navbar-brand`**
 - Add Hamburger Menu
-  - `button.navbar-toggler`
-  - Add attributes data-toggle="collapse" data-target="#navbarCollapse"
-  - Add a span inside the button to display the icon `span.navbar-toggler-icon`
-  - Create a div for navigation links `.collapse.navbar-collapse` with  id 'navbarCollapse'
-- Add the ul/li for Navigation links inside the div `ul.navbar-nav.ml-auto>li.nav-item*4>a.nav-link`
+  - **`button.navbar-toggler`**
+  - Add attributes **data-toggle="collapse" data-target="#navbarCollapse"**
+  - Add a span inside the button to display the icon **`span.navbar-toggler-icon`**
+  - Create a div for navigation links `**.collapse.navbar-collapse`** with  id 'navbarCollapse'
+- Add the ul/li for Navigation links inside the div 
+```css
+ul.navbar-nav.ml-auto>li.nav-item*4>a.nav-link
+```
   - Home
   - Explore
   - Create
   - Share
-- Add the href to point to page bookmarks (#home,#explore-head-section,#create-head-section,#share-head-section)
-- Modify the style.css file and add the following css rules
+- Add the href to point to page bookmarks 
+  - #home
+  - #explore-head-section
+  - #create-head-section
+  - #share-head-section
+- Modify the **style.css** file and add the following css rules
+  
   ```css
   body{
     background:#333;
@@ -186,36 +197,40 @@ In this section we will try different components in Bootstrap randomly. Using th
     opacity:0.8;
   }
   ```
+
 ### Home Section
-- Create the Home Section below the Navbar
-- Create a header element with a div as a child `header#home-section>.dark-overlay`
-- inside the `dark-overlay` add another div `.home-inner.container` this will contain the contents of the section
-- Create the div for row & columns `.row>.col-lg-8.d-none.d-lg-block` 
-  - `col-lg-8` 8 column grid show on large screen
-  - `d-none` this will hide the block
-  - `d-lg-block` this will show the div as block on large screen
-- Add h1 tag `h1.display-4` with text `Build social profiles and gain revenue and profits` 
+- Create the **Home Section** below the **Navbar**
+- Create a header element with a div as a child 
+```css
+header#home-section>.dark-overlay
+```
+- inside the **`dark-overlay`** add another div `**.home-inner.container`** this will contain the contents of the section
+- Create the div for row & columns **`.row>.col-lg-8.d-none.d-lg-block`** 
+  - **`col-lg-8`** 8 column grid show on large screen
+  - **`d-none`** this will hide the block
+  - **`d-lg-block`** this will show the div as block on large screen
+- Add h1 tag **`h1.display-4`** with text **`Build social profiles and gain revenue and profits`**
 - Preview your current changes and see the output. Dont worry about the text going under the navbar
-- Lets add flex container using `.d-flex`
-  - `.p-4.align-self-start`
-  - `i.fas.fa-check.fa-2x`
-  - Add another div `.p-4.align-self-end`
-  - Add some `lorem15`
-- Repeat the above steps for two other options from `d-flex`
-- Add a div below the 8 column div with 4 columns `.col-lg-4`
-- Add a card inside this div `card bg-primary text-center card-form`
-- Add the card body `.card-body`
-- Add h3 with content 'Sign Up Today'
-- Add p tag with content 'Please fill out this form to register'
-- add a form tag which will have the signUp form `form>.form-group`
-- add a input field ` input.form-control.form-control-lg` 
-- add placeholder to Username 
-- repeat the form-group and input for Email,Password and Confirm Password
-- add a submit button `input:submit` add class of `btn btn-outline-light`
-- add additional class for the submit button to make it a block `btn-block`
+- Lets add flex container usi**ng **`.d-flex`**
+  - **`.p-4.align-self-start`
+  - **`i.fas.fa-check.fa-2x`**
+  - Add another div **`.p-4.align-self-end`**
+  - Add some **`lorem15`**
+- Repeat the above steps for two other options from **`d-flex`**
+- Add a div below the 8 column div with 4 columns **`.col-lg-4`**
+- Add a card inside this div **`card bg-primary text-center card-form`**
+- Add the card body **`.card-body`**
+- Add h3 with content _**'Sign Up Today'**_
+- Add p tag with content _**'Please fill out this form to register'**_
+- add a form tag which will have the signUp form **`form>.form-group`**
+- add a input field **`input.form-control.form-control-lg` **
+- add placeholder to _**Username**_ 
+- repeat the _form-group_ and input for **Email,Password and Confirm Password**
+- add a submit button **`input:submit`** add class of **`btn btn-outline-light`**
+- add additional class for the submit button to make it a block **`btn-block`**
 - Now that the markup is compelete. Lets add some custom CSS to fix the layouts
 - Open the style.css file
-- Define rule for id selector #home-section
+- Define rule for id selector **#home-section**
 ```css
   #home-section{
     /*Sets the Background Image*/
