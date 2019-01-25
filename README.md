@@ -23,7 +23,7 @@ Course Contents of **BootStrap Training**.
 - Using Browser tools to inspect page content
 - Forms
 - **Project Demo: LIVE** - [_Text_](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/5_Demo/start-demo.html) to  [_HTML page (Honeybees)_](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/5_Demo/end-demo.html)
-- **Project Demo: DIY** - [_Text](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/7_DIY/start-demo.html) to  [_HTML page (Career Options for Software Developers)_](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/7_DIY/end-demo.html)
+- **Project Demo: DIY** - [_Text_](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/7_DIY/start-demo.html) to  [_HTML page (Career Options for Software Developers)_](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/7_DIY/end-demo.html)
 - **Project Demo: LIVE** - [_Adding Styles to HTML page (Honeybees)_](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/7_styles/6_Demo/end-styles.html)
 - **Project Demo: DIY** - [_Adding Styles to HTML page (Career Options for Software Developers)_](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/7_styles/7_Demo_DIY/end-mockup-page.html)
   
