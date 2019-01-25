@@ -45,13 +45,9 @@ A content delivery network (CDN) is a system of distributed servers (network) th
 <link
   rel="stylesheet"
   href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
-  integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
-  crossorigin="anonymous"
 />
 <script
   src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
-  integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
-  crossorigin="anonymous"
 ></script>
 ```
 
@@ -266,7 +262,7 @@ In this section we will try different components in Bootstrap randomly. Using th
 
 
 ### Explore Head Section
-- Create the head section for explore `section#explore-head-section>.container>.row`
+- Create the head section for explore ```section#explore-head-section>.container>.row```
 - Add a div inside row `.col.text-center.py-5`
 - Add h1 tag `h1.display-4`
 - Add p tag with some lorem `p.lead>lorem20`
@@ -285,6 +281,7 @@ In this section we will try different components in Bootstrap randomly. Using th
 - Add div and lorem content `.p-4.align-self-end>lorem15`
 - Repeat above to add two more checkbox options
 - Add css to format the checkboxes
+  
 ``` css
 #explore-section .fas{
   background:#333;
@@ -298,11 +295,11 @@ In this section we will try different components in Bootstrap randomly. Using th
 ### Create Head & Section
 - Copy the content in head & section of **Explore** and paste it for **Create**
 - Add class to change the background of the head section to blue
-- Change the h1 content to Create
+- Change the h1 content to **_Create_**
 - Change the button to outline light
 - Change the id to create instead of explore
 - Change image to point to create section image
-- Change the text of h3 to 'Create your passion'
+- Change the text of h3 to '**_Create your passion_**'
 - remove the bg-light and  text-muted class for create-section
 - swap the sections by specifying the order class
 - set the background for the checkboxes, by sharing the home section css
@@ -338,6 +335,7 @@ In this section we will try different components in Bootstrap randomly. Using th
 - on the body tag add the attribute data-spy="scroll" data-target="#main-nav" and id as home
 - set the id of nav to main-nav
 - Initialize the scroll spy in the script section
+  
 ``` javascript
    //Init Scrollspy
     $('body').scrollspy({target:'#main-nav'});
