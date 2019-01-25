@@ -36,7 +36,8 @@ Set the text color for an HTML element using the `color` property
 
     <h1 style="color:red">Heading Element </h1>
     <p style="color:purple">Paragraph Element</p>
-    <p >Paragraph Element with no style set. It inherits from the parent element
+    <p >Paragraph Element with no style set. 
+        It inherits from the parent element
     </p>
 
 </body>
@@ -53,7 +54,8 @@ Set the font type for an HTML element using the 'font-family' property
 
     <h1 style="font-family:courier;">Heading Element </h1>
     <p style="font-family:Comic Sans MS">Paragraph Element</p>
-    <p>Paragraph Element with no style set. It inherits from the parent element
+    <p>Paragraph Element with no style set. 
+        It inherits from the parent element
     </p>
 
 </body>
@@ -70,7 +72,8 @@ Set the font type for an HTML element using the 'font-family' property
 
     <h1 style="font-family:courier;text-align:center;">Heading Element </h1>
     <p style="text-align:left;">Paragraph Element</p>
-    <p Paragraph Element with no style set. It inherits from the parent elemen
+    <p Paragraph Element with no style set.
+    It inherits from the parent element
     </p>
 
 </body>
@@ -87,7 +90,8 @@ Set the font size for an HTML element using the `font-size` property
 
     <h1 style="font-size:300%">Heading Element </h1>
     <p style="text-align:left;">Paragraph Element</p>
-    <p>Paragraph Element with no style set. It inherits from the parent element
+    <p>Paragraph Element with no style set.
+        It inherits from the parent element
     </p>
 
 </body>
