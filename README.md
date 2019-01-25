@@ -22,11 +22,12 @@ Course Contents of **BootStrap Training**.
 - Tables
 - Using Browser tools to inspect page content
 - Forms
-- **Project Demo: LIVE** - _Text to HTML page (Honeybees)_
-- **Project Demo: DIY** - _Text to HTML page (Career Options for Software Developers)_
-- **Project Demo: LIVE** - _Adding Styles to HTML page (Honeybees)_
-- **Project Demo: DIY** - _Adding Styles to HTML page (Career Options for Software Developers)_
-- [QUIZ HTML](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/8_Quiz/HTML-Quiz.html)
+- **Project Demo: LIVE** - [_Text](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/5_Demo/start-demo.html) to [HTML page (Honeybees)_](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/5_Demo/end-demo.html)
+- **Project Demo: DIY** - [_Text](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/7_DIY/start-demo.html) to [HTML page (Career Options for Software Developers)_](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/7_DIY/end-demo.html)
+- **Project Demo: LIVE** - [_Adding Styles to HTML page (Honeybees)_](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/7_styles/6_Demo/end-styles.html)
+- **Project Demo: DIY** - [_Adding Styles to HTML page (Career Options for Software Developers)_](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/7_styles/7_Demo_DIY/end-mockup-page.html)
+  
+- [QUIZ HTML](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/9_Quiz/HTML-Quiz.html)
 
 ## [CSS](http://www.costaivo.com/Tutorial-BootStrap/2_CSS)
 
@@ -35,8 +36,8 @@ Course Contents of **BootStrap Training**.
 - Selectors
 - Linking External CSS file
 - Cascading and Inheritance
-- **Project Demo:LIVE** - _Adding CSS to HTML page (Honeybees)_
-- **Project Demo:DIY** - _Adding CSS to HTML page (Career Options for Software Developers)_
+- **Project Demo:LIVE** - [_Adding CSS to HTML page (Honeybees)_](http://www.costaivo.com/Tutorial-BootStrap/2_CSS/4_Demo/end-demo.html)
+- **Project Demo:DIY** - [_Adding CSS to HTML page (Career Options for Software Developers)_](http://www.costaivo.com/Tutorial-BootStrap/2_CSS/5_DIY/end-mockup-page.html)
 - [QUIZ CSS](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/8_Quiz/HTML-Quiz.html)
 
 ## [JavaScript](http://www.costaivo.com/Tutorial-BootStrap/3_JavaScript)
@@ -51,11 +52,11 @@ Course Contents of **BootStrap Training**.
   - Referencing Bootstrap files from CDN
   - Referencing Bootstrap files from local folder
 - Typography & Utilities
-- **Project Demo:LIVE** - _Creating a Landing page_
+- **Project Demo:LIVE** - [_Creating a Landing page_](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/6_LandingPage/end/index.html)
 - CSS Components
 - Grid System & Flexbox
-- **Project Demo :** _Social Page_
-- **Project Demo :** _Multi Page Theme_
+- **Project Demo :** [_Social Page_](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/7_SocialApp/index.html)
+
 
 ## Github
 
@@ -70,3 +71,5 @@ Course Contents of **BootStrap Training**.
 ### Survey Link
 
 [Student Course Registration Form](https://ivocosta1.typeform.com/to/Q8VI4d)
+
+[Course Completion Survey](https://ivocosta1.typeform.com/to/EWX1YQ)
