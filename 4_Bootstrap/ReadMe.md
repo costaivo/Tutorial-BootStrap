@@ -169,7 +169,7 @@ navbar navbar-expand-sm bg-dark navbar-dark fixed-top
   - **`button.navbar-toggler`**
   - Add attributes **data-toggle="collapse" data-target="#navbarCollapse"**
   - Add a span inside the button to display the icon **`span.navbar-toggler-icon`**
-  - Create a div for navigation links `**.collapse.navbar-collapse`** with  id 'navbarCollapse'
+  - Create a div for navigation links **`.collapse.navbar-collapse`** with  id 'navbarCollapse'
 - Add the ul/li for Navigation links inside the div 
 ```css
 ul.navbar-nav.ml-auto>li.nav-item*4>a.nav-link
@@ -212,7 +212,7 @@ header#home-section>.dark-overlay
 - Add h1 tag **`h1.display-4`** with text **`Build social profiles and gain revenue and profits`**
 - Preview your current changes and see the output. Dont worry about the text going under the navbar
 - Lets add flex container usi**ng **`.d-flex`**
-  - **`.p-4.align-self-start`
+  - **`.p-4.align-self-start`**
   - **`i.fas.fa-check.fa-2x`**
   - Add another div **`.p-4.align-self-end`**
   - Add some **`lorem15`**
@@ -223,7 +223,7 @@ header#home-section>.dark-overlay
 - Add h3 with content _**'Sign Up Today'**_
 - Add p tag with content _**'Please fill out this form to register'**_
 - add a form tag which will have the signUp form **`form>.form-group`**
-- add a input field **`input.form-control.form-control-lg` **
+- add a input field **`input.form-control.form-control-lg`**
 - add placeholder to _**Username**_ 
 - repeat the _form-group_ and input for **Email,Password and Confirm Password**
 - add a submit button **`input:submit`** add class of **`btn btn-outline-light`**
