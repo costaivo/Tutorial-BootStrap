@@ -137,7 +137,7 @@ Convert the [text](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/5_Demo/star
 
 Block element always starts on a new line and takes up the full width available.
 
-Example:
+[_**Example:**_](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/6_More_Tags/end-block-elements.1.html)
 
 ```html
 <div>Hello HTML</div>
@@ -148,16 +148,16 @@ Example:
 
 An Inline element does not start on a new line and takes up as much width as necessary
 
-_**Example:**_
+[_**Example:**_](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/6_More_Tags/end-block-elements.1.html)
 
 ```html
 <span>Hello HTML</span>
 <strong> i am a important text </strong>
 ```
 
-## Lesson 5: Other HTML Elements
+## [Lesson 5: Other HTML Elements](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/6_More_Tags/end-more-tags.html)
 
-### HTML Tags related to Formatting
+### [HTML Tags related to Formatting](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/6_More_Tags/start-more-tags.html)
 
 - <b>Bold text
 - <strong>Important text
@@ -219,9 +219,16 @@ _**Example:**_
       <p>This is a blockquote</p>
     </blockquote>
 ```
+
+## [Lesson 4 : Demo 2](1_HTML/7_DIY/start-demo.html)
+
+Convert the [text](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/7_DIY/start-demo.html) file to a [HTML document](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/7_DIY/end-demo.html)
+
+
 ## [Quiz](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/9_Quiz/HTML-Quiz.html)
 
 ### References for Further Learning
 
 - [HTML Dog HTML Tags](http://www.htmldog.com/references/html/tags/)
 - [Mozilla Developer Network HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [W3Schools](https://www.w3schools.com/html/default.asp)
