@@ -36,7 +36,7 @@ Set the text color for an HTML element using the `color` property
 
     <h1 style="color:red">Heading Element </h1>
     <p style="color:purple">Paragraph Element</p>
-    <p >Paragraph Element with no style set. 
+    <p>Paragraph Element with no style set.
         It inherits from the parent element
     </p>
 
