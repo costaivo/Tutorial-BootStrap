@@ -29,7 +29,7 @@
 - Unzip the contents of the zip folder. Copy the CSS and JS folders into your project
 - Reference the BootStrap css file
 
-```HTML
+```html
   <!-- Bootstrap CSS : Referencing local file-->
     <link rel="stylesheet"
           href="css/bootstrap.css">
@@ -55,13 +55,29 @@ A content delivery network (CDN) is a system of distributed servers (network) th
 ></script>
 ```
 
+
 ## [Exploring](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/2_Exploring)
 
-In this section we will try different components in Bootstrap randomly.
+In this section we will try different components in Bootstrap randomly. Using the Bootstrap 4 extension we can create bootstrap components using auto-completion
 
-https://pixabay.com
+- to create a Bootstrap compoent type `b4-` the editor will show a dropdown with list of options
+- Lets create some commonly used components in the file in [2_Exploring folder.](http://www.costaivo.com/Tutorial-BootStrap/4_BootStrap/2_Exploring/index.html)
+- Create the components mentioned under each comments in the html file.
+  
+```html
+    <!-- Nav tabs -->
+  
 
-https://fonts.google.com
+    <!-- Tab panes -->
+
+    <!-- Pills-->
+
+    <!-- Jumbotron -->
+   
+   <!-- list -->
+```
+
+
 
 ## HTML Semantic Elements
 - The Study that examines the meaning of phrases and words is called semantics
