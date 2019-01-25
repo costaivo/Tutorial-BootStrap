@@ -220,10 +220,19 @@ An Inline element does not start on a new line and takes up as much width as nec
     </blockquote>
 ```
 
-## [Lesson 4 : Demo 2](1_HTML/7_DIY/start-demo.html)
+## [Lesson 6 : Demo 2](1_HTML/7_DIY/start-demo.html)
 
 Convert the [text](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/7_DIY/start-demo.html) file to a [HTML document](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/7_DIY/end-demo.html)
 
+## [Lesson 7: Styles](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/8_styles/)
+
+- [Background Color](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/8_styles/1_bgColor/final.html)
+- [Color](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/8_styles/2_color/final.html)
+- [Font Family](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/8_styles/3_fontFamily/final.html)
+- [Text Alignment](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/8_styles/4_textAlign/final.html)
+- [Text Size](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/8_styles/5_textSize/final.html)
+- [Demo 1 - HoyneBees](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/8_styles/6_Demo/end-styles.html)
+- [Demo 2 - SoftwareDevelopers](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/8_styles/7_Demo_DIY/end-mockup-page.html)
 
 ## [Quiz](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/9_Quiz/HTML-Quiz.html)
 
