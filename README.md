@@ -38,7 +38,7 @@ Course Contents of **BootStrap Training**.
 - Cascading and Inheritance
 - **Project Demo:LIVE** - [_Adding CSS to HTML page (Honeybees)_](http://www.costaivo.com/Tutorial-BootStrap/2_CSS/4_Demo/end-demo.html)
 - **Project Demo:DIY** - [_Adding CSS to HTML page (Career Options for Software Developers)_](http://www.costaivo.com/Tutorial-BootStrap/2_CSS/5_DIY/end-mockup-page.html)
-- [QUIZ CSS](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/8_Quiz/HTML-Quiz.html)
+- [QUIZ CSS](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/9_Quiz/HTML-Quiz.html)
 
 ## [JavaScript](http://www.costaivo.com/Tutorial-BootStrap/3_JavaScript)
 
