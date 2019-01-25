@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>HTML Quiz</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet"
+          href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+          integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+          crossorigin="anonymous">
+</head>
+
+<body>
+
+    <!-- START:NAV BAR-->
+	BootStrap Training
+	Home
+	HTML
+	CSS
+	BootStrap
+	Quiz>HTML>CSS>Bootstrap
+    <!-- END:NAV BAR-->
+
+
+	<!--Home Section-->
+	Welcome to the Quiz Section!
+	Please Select a Quiz Topic from the dropdown
+
+	HTML Quiz
+
+                 What does HTML stand for?
+                 What is the largest heading element in HTML?
+                 How can I insert a line break in HTML?
+                 Write the Syntax to set blue color as background for the body tag
+                 What is the tag to define important text?
+                 Give Example of a block and Inline Elements
+                 How can you open a link in a new tab/browser window?
+                How to represent a table in HTML
+                Inline elements are normally displayed without starting a new line.
+                Syntax for creating an ordered list and bulleted list
+
+
+
+CSS Quiz
+
+             CSS Stands for?
+             Keeping Styles in a seperate file is better approach or in the same html file?
+             How to link external css file into html page
+             what is a CSS rule
+             what is a CSS selector
+             How many properties can i assign when defining a rule
+             What are the different types of selectors
+            What is the difference between child and descendent selector tag
+   
+
+
+Bootstrap Quiz
+ 
+            What is BootStrap?
+            Is it possible to convert a &lt;h1&gt; tag to look like h6? 
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+            integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+            crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+            integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+            crossorigin="anonymous"></script>
+            <script type="text/JavaScript">
+                function toggle_div(divID){
+                    var divElement  =document.getElementById(divID);
+
+                    if(divElement.style.display === 'none')
+                        divElement.style.display ='block';
+         
+
+                    /* Hide Quiz Heading Div*/
+                    var quizLanding = document.getElementById('quizLanding');
+
+                    if(quizLanding.style.display==='block')
+                        quizLanding.style.display ='none';
+
+                    /* Hide other Quiz */
+                    if(divID==='htmlQuizBlock'){
+                        document.getElementById('cssQuizBlock').style.display='none';
+                        document.getElementById('bootstrapQuizBlock').style.display='none';
+                    }
+                    else if(divID==='cssQuizBlock'){
+                        document.getElementById('htmlQuizBlock').style.display='none';
+                        document.getElementById('bootstrapQuizBlock').style.display='none';
+                    } else if(divID==='bootstrapQuizBlock'){
+                        document.getElementById('htmlQuizBlock').style.display='none';
+                        document.getElementById('cssQuizBlock').style.display='none';
+                    }
+                }
+            </script>
+</body>
+
+</html>
