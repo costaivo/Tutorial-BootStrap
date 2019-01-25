@@ -262,8 +262,11 @@ In this section we will try different components in Bootstrap randomly. Using th
 
 
 ### Explore Head Section
-- Create the head section for explore ```section#explore-head-section>.container>.row```
-- Add a div inside row `.col.text-center.py-5`
+- Create the head section for explore 
+```css
+section#explore-head-section>.container>.row
+```
+- Add a div inside row **`.col.text-center.py-5`**
 - Add h1 tag `h1.display-4`
 - Add p tag with some lorem `p.lead>lorem20`
 - Add link button `a.btn.btn-outline-secondary`
@@ -273,7 +276,7 @@ In this section we will try different components in Bootstrap randomly. Using th
 - Add a container div `.container>.row`
 - Split the row into two section of 6 columns each `.col-md-6*2`
 - Add the image tag in the first div `img-fluid mb-3 rounded-circle`
-- In the second div add h3 tag 'Explore & Connect'
+- In the second div add h3 tag '**_Explore & Connect_**'
 - Add lorem20
 - Below we will add checkboxes and lorem like it was done in the home section using d-flex
 - `.d-flex>.p-4.align-self-start`
