@@ -112,10 +112,10 @@ In this section we will try different components in Bootstrap randomly. Using th
 - [Grid System](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/4_2_grid_system.html)
 - [Grid Alignment](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/4_3_grid_alignment.html)
 - [Flexbox](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/4_4_flexbox.html)
-- [Auto Margin Wrapping Order](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_5_auto_margins_wrapping_order.html)
+- [Auto Margin Wrapping Order](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/4_5_auto_margins_wrapping_order.html)
 
-## [JavaScript Widgets](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/3_Sandbox/5_2_carousel.html)
-- [Carousel](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/4_SandboxFinal/5_2_carousel.html)
+## [JavaScript Widgets](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/5_2_carousel.html)
+- [Carousel](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/5_2_carousel.html)
 - [Collapse](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/5_3_collapse.html)
 - [Tooltips](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/5_4_tooltips.html)
 - [Popovers](http://www.costaivo.com/Tutorial-BootStrap/4_Bootstrap/4_SandboxFinal/5_5_popovers.html)
