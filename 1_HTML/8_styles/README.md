@@ -6,7 +6,9 @@ The style of an HTML element can be modified using the **style** attribute
 
 below is the syntax of style attribute:
 
-`<tagname style="property:value;">`
+```html
+<tagname style="property:value;">
+```
 
 ### HTML Background color
 
@@ -14,7 +16,7 @@ Set the background color of an HTML element using the `background-color` propert
 
 **Example**
 
-```HTML
+```html
 <body style="background-color:lightgreen;">
 
 <h1>Heading Element </h1>
@@ -29,7 +31,7 @@ Set the text color for an HTML element using the `color` property
 
 **Example**
 
-```HTML
+```html
 <body style="color:green">
 
 <h1 style="color:red">Heading Element </h1>
