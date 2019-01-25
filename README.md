@@ -17,7 +17,7 @@ Course Contents of **BootStrap Training**.
   - Link
   - Lists
 - Block & Inline Elements
-- Style
+- [Style](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/8_styles/)
 - Formatting
 - Tables
 - Using Browser tools to inspect page content
