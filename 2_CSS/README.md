@@ -3,14 +3,60 @@
 ## CSS basics
 
 HTML allows us to view text and pictures on the webpage. CSS exists to make the content on the page look good.
-CSS describes how the HTML elements should be displayed.
-Mixing content and presentation is difficult to maintain.
-CSS helps seperate presentation rules with structrue
+- CSS describes how the HTML elements should be displayed.
+- Mixing content and presentation is difficult to maintain.
+- CSS helps seperate presentation rules with structrue
 
-### [Demo : How CSS Works](http://www.costaivo.com/Tutorial-BootStrap/2_CSS/1_Introduction/index.html)
+### Demo : How CSS Works
 
 In Demo we will see how applying css makes visual difference to a page.
+ - [Without CSS, just plain HTML](http://www.costaivo.com/Tutorial-BootStrap/2_CSS/1_Introduction/index.html)
+ - [With CSS, lets see how the page looks now](http://www.costaivo.com/Tutorial-BootStrap/2_CSS/1_Introduction/final.html)
+ - [Slightly modified page](http://www.costaivo.com/Tutorial-BootStrap/2_CSS/1_Introduction/final_2.html)
 
+#### CSS Code
+
+```css
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.destination {
+  box-sizing: border-box;
+  width: 320px;
+  height: 420px;
+  margin: 20px auto;
+  border: 1px solid #aaa;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+  transition: background-color 400ms ease-out;
+}
+
+.destination:hover,
+.destination:active {
+  background-color: #fa923f;
+  color: white;
+}
+
+.thumbnail {
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
+}
+
+.thumbnail img {
+  width: 100%;
+}
+
+.content {
+  text-align: center;
+}
+
+.content h1 {
+  margin: 10px 0;
+}
+
+```
 ### Add style to HTML page
 
 ```html
@@ -29,7 +75,7 @@ Adding styles in seperate page allow the same styles to applies across multiple 
 
 ## File:styles.css
 
-```html
+```css
 body {background-color:red}
 ```
 
@@ -53,7 +99,7 @@ A CSS comprises of style rules that are interpreted by the browser and then appl
 
 ### Style Rules Syntax:
 
-```javascript
+```css
 selector {
     property-name:value;
 }
@@ -61,7 +107,7 @@ selector {
 
 ### [Example:](/Rules.html)
 
-```javascript
+```css
 
 body{
      background-color:grey
@@ -71,9 +117,6 @@ p {
       background-color:green;
       font-family:arial;
 }
-
-
-
 ```
 
 ## [Selectors](/3_Selectors.html)
@@ -82,7 +125,7 @@ A selector is a pattern used to apply styles to elements
 
 ### Simple Selector / Type Selectors
 
-```javascript
+```css
 body {
     background-color:lightblue;
 }
@@ -97,7 +140,7 @@ p {
 
 ### ID Selectors
 
-```javascript
+```css
  #mySuperHeader {
     background-color: #ffff00;
     color: blue;
@@ -108,7 +151,7 @@ p {
 
 ### Class Selectors
 
-```javascript
+```css
   .greenPara {
             color: green
         }
@@ -119,7 +162,7 @@ p {
 Rather than selecting elements of a specific type, the universal selector quite simply matches the name of any element type.
 The below rule renders the content of every element in our document in black.
 
-```javascript
+```css
 * {
     color: #000000;
 }
@@ -129,7 +172,7 @@ The below rule renders the content of every element in our document in black.
 
 Suppose you want to apply a style rule to a particular element only when it lies inside a particular element. As given in the following example, style rule will apply to <em> element only when it lies inside <ul> tag.
 
-```javascript
+```css
 ul em {
    color: #000000;
 }
@@ -137,14 +180,10 @@ ul em {
 
 ### Child Selectors
 
-```javascript
+```css
 ul em {
    color: #000000;
 }
 ```
 
-## Linking External CSS file
 
-```
-
-```

@@ -10,7 +10,7 @@ JavaScript is a programming language of HTML and the web.
 
 - JavaScript to program the behavior of web pages
 
-## [Example](/index.html)
+## [Example](http://www.costaivo.com/Tutorial-BootStrap/3_JavaScript/javascript.html)
 
 ```html
 <!DOCTYPE html>
