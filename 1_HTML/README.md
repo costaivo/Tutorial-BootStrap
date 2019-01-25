@@ -83,26 +83,29 @@ Elements usually have a start and closing tag, like <p></p>. But there are some 
 ```
 
 - The **<html>** tag tells the browser "hey contained in here is a bunch of HTML code."
-- The **<head>** tag we don't really use just yet, but it will contain our references to outside bits of code such as CSS or Javascript.
+- The **<head>**  it  contain our references to outside bits of code such as CSS or Javascript.
 - The **<body>** tag tells the browser "contained in here is the stuff I actually want you to show the user."
 
 ## Commenting HTML Code
 
-A comment starts with the tag **<!--** and ends with tag **-->**. Whatever content is added inside a comment tag is never displayed in the browser.
+A comment starts with the tag `<!-- and ends with tag -->`. Whatever content is added inside a comment tag is never displayed in the browser.
 
 ## Summary
 
 - HTML element starts with a opening tag
 - HTML element ends with a closing tag
 - The letters between the < and > are abbreviations
-- The element content is everything between the start tag and the end tag
+- The element content is everything between the **start tag** and the **end tag**
 - Some HTML elements are empty
-- Empty elements are closed in the start tag
-- Make it a habit to type all your tags in lowercase - it is considered good practice
+- Empty elements are closed in the **start tag**
+- Make it a habit to type all your tags in **lowercase** - it is considered good practice
 
 ## Lesson 2
 
 ### Attributes
+- Attribute is a characteristic of a element. E.g. font size or color.
+- Attributes are used to amplify a tag. 
+- When a browser interprets and HTML tag it will also check if its attributes are set so that it can display the **elements** properly.
 
 ### Image Tag
 
