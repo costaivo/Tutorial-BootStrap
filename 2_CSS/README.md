@@ -186,4 +186,11 @@ ul em {
 }
 ```
 
+### Margin & Paddding
+Margin and Padding are the two most commonly used properties for spacing-out elements. A margin is the space outside something, whereas padding is the space inside something. This leaves a 20-pixel width space around the secondary header and the header itself is fat from the 40-pixel width padding.
 
+[Read More](https://www.w3schools.com/css/css_boxmodel.asp)
+
+Lets understand Margin & Paddings better with an [example](http://www.costaivo.com/Tutorial-BootStrap/2_CSS/6_Margin_Padding_start.html).
+
+[Example File](http://www.costaivo.com/Tutorial-BootStrap/2_CSS/6_Margin_Padding.html) after adding margin & Paddings.
