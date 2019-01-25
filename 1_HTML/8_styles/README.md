@@ -45,7 +45,7 @@ Set the font type for an HTML element using the 'font-family' property
 
 **Example**
 
-```HTML
+```html
 <body style="font-family:verdana;">
 
 <h1 style="font-family:courier;">Heading Element </h1>
@@ -61,7 +61,7 @@ Set the font type for an HTML element using the 'font-family' property
 
 **Example**
 
-```HTML
+```html
 <body style="font-family:verdana;">
 
 <h1 style="font-family:courier;text-align:center;">Heading Element </h1>
@@ -77,7 +77,7 @@ Set the font size for an HTML element using the `font-size` property
 
 **Example**
 
-```HTML
+```html
 <body>
 
 <h1 style="font-size:300%">Heading Element </h1>
@@ -89,4 +89,4 @@ Set the font size for an HTML element using the `font-size` property
 
 ### Live Examples
 
-All the live examples for the style properties can be found (here)[https://codepen.io/CostaIvo/project/editor/AOeBML#0]
+All the live examples for the style properties can be found [here](https://codepen.io/CostaIvo/project/editor/AOeBML#0)
