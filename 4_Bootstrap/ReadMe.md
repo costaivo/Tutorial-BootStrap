@@ -282,21 +282,26 @@ header#home-section>.dark-overlay
 section#explore-head-section>.container>.row
 ```
 - Add a div inside row **`.col.text-center.py-5`**
-- Add h1 tag `h1.display-4`
-- Add p tag with some lorem `p.lead>lorem20`
-- Add link button `a.btn.btn-outline-secondary`
+- Add h1 tag **`h1.display-4`**
+- Add p tag with some lorem **`p.lead>lorem20`**
+- Add link button **`a.btn.btn-outline-secondary`**
 
 ### Explore Body Section
-- Add section tag to wrap all the contents `section#explore-section.bg-light.text-muted.py-5`
-- Add a container div `.container>.row`
-- Split the row into two section of 6 columns each `.col-md-6*2`
-- Add the image tag in the first div `img-fluid mb-3 rounded-circle`
+
+- Add section tag to wrap all the contents 
+```css
+section#explore-section.bg-light.text-muted.py-5
+```
+
+- Add a container div **`.container>.row`**
+- Split the row into two section of 6 columns each **`.col-md-6*2`**
+- Add the image tag in the first div **`img-fluid mb-3 rounded-circle`**
 - In the second div add h3 tag '**_Explore & Connect_**'
 - Add lorem20
-- Below we will add checkboxes and lorem like it was done in the home section using d-flex
-- `.d-flex>.p-4.align-self-start`
+- Below we will add checkboxes and **lorem** like it was done in the home section using d-flex
+- **`.d-flex>.p-4.align-self-start`**
 - Add the icon `i.fas.fa-check.fa-2x`
-- Add div and lorem content `.p-4.align-self-end>lorem15`
+- Add div and lorem content **`.p-4.align-self-end>lorem15`**
 - Repeat above to add two more checkbox options
 - Add css to format the checkboxes
   
@@ -328,29 +333,29 @@ section#explore-head-section>.container>.row
   
   
 ### Footer Section
-- add footer tag `footer#main-footer.bg-dark`
-- add a container div with row and col `.container>.row>.col.text-center.py-4`
+- add footer tag **`footer#main-footer.bg-dark`**
+- add a container div with row and col **`.container>.row>.col.text-center.py-4`**
 - add h3 tag with 'SocialApp'
 - add p tag with Copyright &copy;
 - add a span to display the year
-- add a button ` btn.btn.btn-primary`
-- add data-toggle="modal" data-target="#contactModal"
+- add a button **` btn.btn.btn-primary`**
+- add **data-toggle="modal" data-target="#contactModal"**
 
 ### Contact Modal Section
-- add a div `.modal.fade.text-dark#contactModal`
-- create the modal structure ` .modal-dialog>.modal-content>.modal-header`
-- add modal title using h5 tag `h5.modal-title`
-- add a button to close `btn.close`
-- add span with close text `span>&times;`
+- add a div **`.modal.fade.text-dark#contactModal`**
+- create the modal structure **` .modal-dialog>.modal-content>.modal-header`**
+- add modal title using h5 tag **`h5.modal-title`**
+- add a button to close **`btn.close`**
+- add span with close text **`span>&times;`**
 - add data-dimiss="modal" attribute to button
-- add the modal body `.modal-body>form`
-- add the form-group for name `.form-group>label+input:text.form-control`
+- add the modal body **`.modal-body>form`**
+- add the form-group for name **`.form-group>label+input:text.form-control`**
 - repeat for email and message
 - add a button below  the modal-body
 
 
 ### Smooth Scrolling
-- on the body tag add the attribute data-spy="scroll" data-target="#main-nav" and id as home
+- on the body tag add the attribute **data-spy="scroll" data-target="#main-nav"** and id as home
 - set the id of nav to main-nav
 - Initialize the scroll spy in the script section
   
