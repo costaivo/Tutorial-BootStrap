@@ -219,6 +219,12 @@ An Inline element does not start on a new line and takes up as much width as nec
       <p>This is a blockquote</p>
     </blockquote>
 ```
+
+## [Lesson 4 : Demo 2](1_HTML/7_DIY/start-demo.html)
+
+Convert the [text](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/7_DIY/start-demo.html) file to a [HTML document](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/7_DIY/end-demo.html)
+
+
 ## [Quiz](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/9_Quiz/HTML-Quiz.html)
 
 ### References for Further Learning
