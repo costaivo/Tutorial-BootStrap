@@ -25,7 +25,7 @@ Set the background color of an HTML element using the `background-color` propert
 </body>
 ```
 
-### HTML Background color
+### HTML  color
 
 Set the text color for an HTML element using the `color` property
 
