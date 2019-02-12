@@ -1,6 +1,6 @@
 # BootStrap Training Program
 
-<div align='center'><a href='http://online-visit-counter.com/'><img src='http://online-visit-counter.com/cg.php?t=MTQzNjI0NQ==' border='0' alt='hit counter'></a><BR><a href='http://online-visit-counter.com/'>hit counter</a><div style="visibility: hidden; display: none;"><a href="https://www.creativealif.com/">logo design company in dubai</a></div></div>
+<div align='center'><a href='http://online-visit-counter.com/'><img src='http://online-visit-counter.com/cg.php?t=MTQzNjI0NQ==' border='0' alt='hit counter'></a><BR><a href='http://online-visit-counter.com/'>hit counter</a><div style="visibility: hidden; display: none;"><a href="https://www.creativealif.com/">CodingTrails</a></div></div>
   
 Course Contents of **BootStrap Training**.
 
