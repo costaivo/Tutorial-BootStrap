@@ -1,8 +1,6 @@
-# BootStrap Training Program
-
-<div align='center'><a href='http://online-visit-counter.com/'><img src='http://online-visit-counter.com/cg.php?t=MTQzNjI0NQ==' border='0' alt='hit counter'></a><BR><a href='http://online-visit-counter.com/'>hit counter</a><div style="visibility: hidden; display: none;"></div></div>
+# WebDeveloper Training Program
   
-Course Contents of **BootStrap Training**.
+Course Contents of **WebDeveloper Training**.
 
 ## [HTML](http://www.costaivo.com/Tutorial-BootStrap/1_HTML/)
 
