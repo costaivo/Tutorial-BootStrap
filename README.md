@@ -71,6 +71,6 @@ Course Contents of **WebDeveloper Training**.
 
 ### Survey Link
 
-[Student Course Registration Form](https://ivocosta1.typeform.com/to/Q8VI4d)
+[Trainee Skills Survey skills](https://forms.office.com/Pages/ResponsePage.aspx?id=qJdQxd8gjEyySMtmzJWbNDxtPZkH5alPu8NfUEDrw69UMVA4TFNUTDM5WDBZRTBGNEtJTVc4V1NNRS4u)
 
-[Course Completion Survey](https://ivocosta1.typeform.com/to/EWX1YQ)
+[Course Completion Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=qJdQxd8gjEyySMtmzJWbNDxtPZkH5alPu8NfUEDrw69UNUpGTFcxRFlSNDhUUDNHREMxVk0zUzNBMC4u)
