@@ -8,7 +8,7 @@
 
 ## Before we start 
 
-[Let look at the survey results to see what skills you already have](https://ivocosta1.typeform.com/report/Q8VI4d/yoBybcHpj6P1tNem)
+[Let look at the survey results to see what skills you already have](https://forms.office.com/Pages/AnalysisPage.aspx?id=qJdQxd8gjEyySMtmzJWbNDxtPZkH5alPu8NfUEDrw69UMVA4TFNUTDM5WDBZRTBGNEtJTVc4V1NNRS4u&AnalyzerToken=VZZKNH5bhJSHzwj7diT08vOOa3j0hjLA)
 
 
 ## What is HTML
